@@ -2667,7 +2667,7 @@ void literal_pool(int n)
     {
         ptr[4096]=(u_int *)literals[i][0];
         u_int offset=(u_int)out-(u_int)ptr-8;
-        //assert(offset<4096);
+        assert(offset<4096);
         assert(!(offset&3));
         *ptr|=offset;
         output_w32(literals[i][1]);

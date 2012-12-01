@@ -59,16 +59,15 @@ extern int SDL_main(int argc, char *argv[]);
 
 @implementation N64DetailViewController
 
-@synthesize detailItem = _detailItem;
 @synthesize detailDescriptionLabel = _detailDescriptionLabel;
 @synthesize masterPopoverController = _masterPopoverController;
 
 #pragma mark - Managing the detail item
 
-- (void)setDetailItem:(id)newDetailItem
-{
-    if (_detailItem != newDetailItem) {
-        _detailItem = newDetailItem;
+- (void)setRomName:(NSString *)romName {
+
+    if (_romName != romName) {
+        _romName = romName;
         
         // Update the view.
         [self configureView];
@@ -83,8 +82,8 @@ extern int SDL_main(int argc, char *argv[]);
 {
     // Update the user interface for the detail item.
 
-    if (self.detailItem) {
-        self.detailDescriptionLabel.text = [self.detailItem description];
+    if (self.romName) {
+        self.detailDescriptionLabel.text = self.romName;
     }
 }
 
@@ -124,7 +123,7 @@ extern int SDL_main(int argc, char *argv[]);
         NSArray *paths = NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES);
         NSString *documentsDirectoryPath = [paths objectAtIndex:0];
         
-        NSString *listingsPath = [documentsDirectoryPath stringByAppendingPathComponent:@"Paper Mario.z64"];
+        NSString *listingsPath = [documentsDirectoryPath stringByAppendingPathComponent:self.romName];
         char *cListingsPath = (char*)[listingsPath UTF8String];
         [self startEmu:cListingsPath];
         

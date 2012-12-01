@@ -5842,7 +5842,7 @@ void new_dynarec_init()
               -1, 0) != out) {fprintf(stderr, "mmap() failed\n"); fflush(stderr); }
 #if defined(__APPLE__) && defined(__arm__)
     //memset(translation_cache_iphone, 0, 1<<TARGET_SIZE_2);
-    //**Riley Testut**// sys_icache_invalidate(translation_cache_iphone, 1<<TARGET_SIZE_2);
+    //sys_icache_invalidate(translation_cache_iphone, 1<<TARGET_SIZE_2);
     //fflush(stderr);
 #endif
     
@@ -8075,7 +8075,7 @@ void new_recompile_block(int addr)
     
     /* Pass 10 - Free memory by expiring oldest blocks */
     
-    Riley Testut** int end=((((int)out-BASE_ADDR)>>(TARGET_SIZE_2-16))+16384)&65535;
+    int end=((((int)out-BASE_ADDR)>>(TARGET_SIZE_2-16))+16384)&65535;
     while(expirep!=end)
     {
         int shift=TARGET_SIZE_2-3; // Divide into 8 blocks

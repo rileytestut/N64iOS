@@ -10,7 +10,7 @@
 
 @interface N64DetailViewController : UIViewController <UISplitViewControllerDelegate>
 
-@property (strong, nonatomic) id detailItem;
+@property (copy, nonatomic) NSString *romName;
 
 @property (strong, nonatomic) IBOutlet UILabel *detailDescriptionLabel;
 
