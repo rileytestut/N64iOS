@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/4827/trunk/SDL/src/atomic/macosx
+END
+SDL_atomic.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/4827/trunk/SDL/src/atomic/macosx/SDL_atomic.c
+END

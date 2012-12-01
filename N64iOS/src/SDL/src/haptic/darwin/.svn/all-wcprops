@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/4409/trunk/SDL/src/haptic/darwin
+END
+SDL_syshaptic.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/4409/trunk/SDL/src/haptic/darwin/SDL_syshaptic.c
+END

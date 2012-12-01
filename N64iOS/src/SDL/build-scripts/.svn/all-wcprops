@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/5352/trunk/SDL/build-scripts
+END
+mkinstalldirs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/2609/trunk/SDL/build-scripts/mkinstalldirs
+END
+fatbuild.sh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/5352/trunk/SDL/build-scripts/fatbuild.sh
+END
+showrev.sh
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/4741/trunk/SDL/build-scripts/showrev.sh
+END
+snapshot.sh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/4342/trunk/SDL/build-scripts/snapshot.sh
+END
+updaterev.sh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/4338/trunk/SDL/build-scripts/updaterev.sh
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/4971/trunk/SDL/build-scripts/config.guess
+END
+strip_fPIC.sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/2609/trunk/SDL/build-scripts/strip_fPIC.sh
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/4971/trunk/SDL/build-scripts/config.sub
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/4950/trunk/SDL/build-scripts/ltmain.sh
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/2609/trunk/SDL/build-scripts/install-sh
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/include/freetype/internal
+END
+ftvalid.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/include/freetype/internal/ftvalid.h
+END
+autohint.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/include/freetype/internal/autohint.h
+END
+ftcalc.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/include/freetype/internal/ftcalc.h
+END
+pcftypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/include/freetype/internal/pcftypes.h
+END
+psaux.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/include/freetype/internal/psaux.h
+END
+ftgloadr.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/include/freetype/internal/ftgloadr.h
+END
+ftmemory.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/include/freetype/internal/ftmemory.h
+END
+ftserv.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/include/freetype/internal/ftserv.h
+END
+t1types.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/include/freetype/internal/t1types.h
+END
+sfnt.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/include/freetype/internal/sfnt.h
+END
+internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/include/freetype/internal/internal.h
+END
+tttypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/include/freetype/internal/tttypes.h
+END
+ftrfork.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/include/freetype/internal/ftrfork.h
+END
+ftdebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/include/freetype/internal/ftdebug.h
+END
+ftstream.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/include/freetype/internal/ftstream.h
+END
+ftdriver.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/include/freetype/internal/ftdriver.h
+END
+ftobjs.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/include/freetype/internal/ftobjs.h
+END
+pshints.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/include/freetype/internal/pshints.h
+END
+fttrace.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/include/freetype/internal/fttrace.h
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/4433/trunk/SDL/src/audio/pulseaudio
+END
+SDL_pulseaudio.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/4211/trunk/SDL/src/audio/pulseaudio/SDL_pulseaudio.h
+END
+SDL_pulseaudio.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/4433/trunk/SDL/src/audio/pulseaudio/SDL_pulseaudio.c
+END

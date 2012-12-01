@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/5306/trunk/SDL/test/automated/surface
+END
+surface.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/5306/trunk/SDL/test/automated/surface/surface.c
+END
+surface.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/4706/trunk/SDL/test/automated/surface/surface.h
+END

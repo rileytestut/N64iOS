@@ -1,0 +1,389 @@
+<ui version="4.0" >
+ <class>glN64ConfigDialog</class>
+ <widget class="QDialog" name="glN64ConfigDialog" >
+  <property name="geometry" >
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>461</width>
+    <height>399</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>glN64 Settings</string>
+  </property>
+  <layout class="QGridLayout" name="gridLayout" >
+   <item row="0" column="0" colspan="3" >
+    <widget class="QLabel" name="label_3" >
+     <property name="text" >
+      <string>&lt;h4>Display&lt;/h4></string>
+     </property>
+    </widget>
+   </item>
+   <item row="1" column="0" >
+    <spacer name="horizontalSpacer_4" >
+     <property name="orientation" >
+      <enum>Qt::Horizontal</enum>
+     </property>
+     <property name="sizeType" >
+      <enum>QSizePolicy::Fixed</enum>
+     </property>
+     <property name="sizeHint" stdset="0" >
+      <size>
+       <width>40</width>
+       <height>20</height>
+      </size>
+     </property>
+    </spacer>
+   </item>
+   <item row="1" column="1" >
+    <widget class="QLabel" name="label" >
+     <property name="text" >
+      <string>Resolution:</string>
+     </property>
+     <property name="alignment" >
+      <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+     </property>
+    </widget>
+   </item>
+   <item row="1" column="2" >
+    <layout class="QHBoxLayout" name="horizontalLayout_2" >
+     <item>
+      <widget class="QComboBox" name="resolutionCombo" >
+       <property name="editable" >
+        <bool>true</bool>
+       </property>
+       <property name="currentIndex" >
+        <number>3</number>
+       </property>
+       <item>
+        <property name="text" >
+         <string>320 x 400</string>
+        </property>
+       </item>
+       <item>
+        <property name="text" >
+         <string>400 x 300</string>
+        </property>
+       </item>
+       <item>
+        <property name="text" >
+         <string>480 x 360</string>
+        </property>
+       </item>
+       <item>
+        <property name="text" >
+         <string>640 x 480</string>
+        </property>
+       </item>
+       <item>
+        <property name="text" >
+         <string>800 x 600</string>
+        </property>
+       </item>
+       <item>
+        <property name="text" >
+         <string>960 x 720</string>
+        </property>
+       </item>
+       <item>
+        <property name="text" >
+         <string>1024 x 768</string>
+        </property>
+       </item>
+       <item>
+        <property name="text" >
+         <string>1152 x 864</string>
+        </property>
+       </item>
+       <item>
+        <property name="text" >
+         <string>1280 x 960</string>
+        </property>
+       </item>
+       <item>
+        <property name="text" >
+         <string>1280 x 1024</string>
+        </property>
+       </item>
+       <item>
+        <property name="text" >
+         <string>1440 x 1080</string>
+        </property>
+       </item>
+      </widget>
+     </item>
+     <item>
+      <spacer name="horizontalSpacer" >
+       <property name="orientation" >
+        <enum>Qt::Horizontal</enum>
+       </property>
+       <property name="sizeHint" stdset="0" >
+        <size>
+         <width>0</width>
+         <height>20</height>
+        </size>
+       </property>
+      </spacer>
+     </item>
+    </layout>
+   </item>
+   <item row="2" column="1" >
+    <widget class="QLabel" name="label_6" >
+     <property name="text" >
+      <string>Draw Fog:</string>
+     </property>
+     <property name="alignment" >
+      <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+     </property>
+    </widget>
+   </item>
+   <item row="2" column="2" >
+    <widget class="QCheckBox" name="drawFogCheck" >
+     <property name="text" >
+      <string/>
+     </property>
+    </widget>
+   </item>
+   <item row="3" column="1" >
+    <widget class="QLabel" name="label_7" >
+     <property name="text" >
+      <string>2x SAI Texture Scaling:</string>
+     </property>
+     <property name="alignment" >
+      <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+     </property>
+    </widget>
+   </item>
+   <item row="3" column="2" >
+    <widget class="QCheckBox" name="twoExSaiTextureScalingCheck" >
+     <property name="text" >
+      <string/>
+     </property>
+    </widget>
+   </item>
+   <item row="4" column="1" >
+    <widget class="QLabel" name="label_8" >
+     <property name="text" >
+      <string>Anisotropic Filtering:</string>
+     </property>
+     <property name="alignment" >
+      <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+     </property>
+    </widget>
+   </item>
+   <item row="4" column="2" >
+    <widget class="QCheckBox" name="anisotropicFilteringCheck" >
+     <property name="text" >
+      <string/>
+     </property>
+    </widget>
+   </item>
+   <item row="5" column="1" >
+    <widget class="QLabel" name="label_9" >
+     <property name="text" >
+      <string>Force Bilinear Filtering:</string>
+     </property>
+     <property name="alignment" >
+      <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+     </property>
+    </widget>
+   </item>
+   <item row="5" column="2" >
+    <widget class="QCheckBox" name="forceBilinearFilteringCheck" >
+     <property name="text" >
+      <string/>
+     </property>
+    </widget>
+   </item>
+   <item row="6" column="1" >
+    <widget class="QLabel" name="label_10" >
+     <property name="text" >
+      <string>Dithered Alpha Testing:</string>
+     </property>
+     <property name="alignment" >
+      <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+     </property>
+    </widget>
+   </item>
+   <item row="6" column="2" >
+    <widget class="QCheckBox" name="ditheredAlphaTestingCheck" >
+     <property name="text" >
+      <string/>
+     </property>
+    </widget>
+   </item>
+   <item row="7" column="0" colspan="3" >
+    <widget class="QLabel" name="label_2" >
+     <property name="text" >
+      <string>&lt;h4>Textures&lt;/h4></string>
+     </property>
+    </widget>
+   </item>
+   <item row="8" column="1" >
+    <widget class="QLabel" name="label_4" >
+     <property name="text" >
+      <string>Bit Depth:</string>
+     </property>
+     <property name="alignment" >
+      <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+     </property>
+     <property name="buddy" >
+      <cstring>bitDepthCombo</cstring>
+     </property>
+    </widget>
+   </item>
+   <item row="8" column="2" >
+    <layout class="QHBoxLayout" name="horizontalLayout" >
+     <item>
+      <widget class="QComboBox" name="bitDepthCombo" >
+       <property name="currentIndex" >
+        <number>1</number>
+       </property>
+       <item>
+        <property name="text" >
+         <string>16-bit only (faster)</string>
+        </property>
+       </item>
+       <item>
+        <property name="text" >
+         <string>16-bit and 32-bit (normal)</string>
+        </property>
+       </item>
+       <item>
+        <property name="text" >
+         <string>32-bit (best for 2xSAI)</string>
+        </property>
+       </item>
+      </widget>
+     </item>
+     <item>
+      <spacer name="horizontalSpacer_2" >
+       <property name="orientation" >
+        <enum>Qt::Horizontal</enum>
+       </property>
+       <property name="sizeHint" stdset="0" >
+        <size>
+         <width>0</width>
+         <height>20</height>
+        </size>
+       </property>
+      </spacer>
+     </item>
+    </layout>
+   </item>
+   <item row="9" column="1" >
+    <widget class="QLabel" name="label_5" >
+     <property name="text" >
+      <string>Cache Size:</string>
+     </property>
+     <property name="alignment" >
+      <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+     </property>
+     <property name="buddy" >
+      <cstring>cacheSizeSpin</cstring>
+     </property>
+    </widget>
+   </item>
+   <item row="9" column="2" >
+    <layout class="QHBoxLayout" name="horizontalLayout_3" >
+     <item>
+      <widget class="QSpinBox" name="cacheSizeSpin" >
+       <property name="suffix" >
+        <string> MB</string>
+       </property>
+       <property name="maximum" >
+        <number>2048</number>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <spacer name="horizontalSpacer_3" >
+       <property name="orientation" >
+        <enum>Qt::Horizontal</enum>
+       </property>
+       <property name="sizeHint" stdset="0" >
+        <size>
+         <width>0</width>
+         <height>20</height>
+        </size>
+       </property>
+      </spacer>
+     </item>
+    </layout>
+   </item>
+   <item row="10" column="1" >
+    <widget class="QLabel" name="label_11" >
+     <property name="text" >
+      <string>HW Framebuffer Textures:</string>
+     </property>
+     <property name="alignment" >
+      <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+     </property>
+    </widget>
+   </item>
+   <item row="10" column="2" >
+    <widget class="QCheckBox" name="hwFramebufferTexturesCheck" >
+     <property name="font" >
+      <font>
+       <weight>75</weight>
+       <bold>true</bold>
+      </font>
+     </property>
+     <property name="text" >
+      <string>Note: experimental!</string>
+     </property>
+    </widget>
+   </item>
+   <item row="11" column="0" colspan="3" >
+    <widget class="Line" name="line" >
+     <property name="orientation" >
+      <enum>Qt::Horizontal</enum>
+     </property>
+    </widget>
+   </item>
+   <item row="12" column="0" colspan="3" >
+    <widget class="QDialogButtonBox" name="buttonBox" >
+     <property name="standardButtons" >
+      <set>QDialogButtonBox::Cancel|QDialogButtonBox::Ok</set>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections>
+  <connection>
+   <sender>buttonBox</sender>
+   <signal>accepted()</signal>
+   <receiver>glN64ConfigDialog</receiver>
+   <slot>accept()</slot>
+   <hints>
+    <hint type="sourcelabel" >
+     <x>248</x>
+     <y>254</y>
+    </hint>
+    <hint type="destinationlabel" >
+     <x>157</x>
+     <y>274</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>buttonBox</sender>
+   <signal>rejected()</signal>
+   <receiver>glN64ConfigDialog</receiver>
+   <slot>reject()</slot>
+   <hints>
+    <hint type="sourcelabel" >
+     <x>316</x>
+     <y>260</y>
+    </hint>
+    <hint type="destinationlabel" >
+     <x>286</x>
+     <y>274</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+</ui>

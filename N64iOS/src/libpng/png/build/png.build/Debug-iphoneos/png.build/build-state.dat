@@ -1,0 +1,436 @@
+Tpng
+v5
+r1
+cCheck dependencies
+cProcessPCH /var/folders/44/57_01gws5z975jp2dztpy59m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/png-Prefix-ghgvrcttevphqwcluduvqxnhqumw/png-Prefix.pch.pth png/png-Prefix.pch normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngerror.o "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngerror.c" normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngget.o "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngget.c" normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/png.o "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../png.c" normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngmem.o "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngmem.c" normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngpread.o "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngpread.c" normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngread.o "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngread.c" normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngrio.o "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngrio.c" normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngrutil.o "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngrutil.c" normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngset.o "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngset.c" normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngtrans.o "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngtrans.c" normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngwio.o "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngwio.c" normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngwrite.o "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngwrite.c" normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngwtran.o "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngwtran.c" normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngwutil.o "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngwutil.c" normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/Debug-iphoneos/libpng.a" normal armv7
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk
+c00000000509AFF7F0000000000000132
+t1352335231
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005073C7990000000000629C80
+t1349765017
+s6462592
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000005073C79700000000000015F7
+t1349765015
+s5623
+
+N/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/Debug-iphoneos/libpng.a
+t2
+s0
+
+N/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/png.LinkFileList
+c0000000050B313BA0000000000000816
+t1353913274
+s2070
+
+N/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/png.o
+t2
+s0
+
+N/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngerror.o
+t2
+s0
+
+N/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngget.o
+t2
+s0
+
+N/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngmem.o
+t2
+s0
+
+N/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngpread.o
+t2
+s0
+
+N/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngread.o
+t2
+s0
+
+N/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngrio.o
+t2
+s0
+
+N/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngrutil.o
+t2
+s0
+
+N/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngset.o
+t2
+s0
+
+N/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngtrans.o
+t2
+s0
+
+N/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngwio.o
+t2
+s0
+
+N/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngwrite.o
+t2
+s0
+
+N/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngwtran.o
+t2
+s0
+
+N/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngwutil.o
+t2
+s0
+
+N/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../png.c
+c0000000050B30DE900000000000175A2
+t1353911785
+s95650
+
+N/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngerror.c
+c000000004F73EDEE00000000000052B4
+t1332997614
+s21172
+
+N/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngget.c
+c000000004F73EDEE0000000000007C20
+t1332997614
+s31776
+
+N/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngmem.c
+c0000000050B30FBD00000000000047A5
+t1353912253
+s18341
+
+N/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngpread.c
+c000000004F73EDEE000000000000944C
+t1332997614
+s37964
+
+N/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngread.c
+c000000004F73EDEE0000000000009D23
+t1332997614
+s40227
+
+N/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngrio.c
+c000000004F73EDEE0000000000001516
+t1332997614
+s5398
+
+N/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngrutil.c
+c000000004F73EDEE000000000001EF7D
+t1332997614
+s126845
+
+N/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngset.c
+c000000004F73EDEE000000000000952E
+t1332997614
+s38190
+
+N/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngtrans.c
+c000000004F73EDEE0000000000005C01
+t1332997614
+s23553
+
+N/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngwio.c
+c000000004F73EDEE0000000000001ED1
+t1332997614
+s7889
+
+N/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngwrite.c
+c000000004F73EDEE000000000000CDDA
+t1332997614
+s52698
+
+N/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngwtran.c
+c000000004F73EDEE000000000000463E
+t1332997614
+s17982
+
+N/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngwutil.c
+c000000004F73EDEE00000000000172F2
+t1332997614
+s94962
+
+N/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/png-Prefix.pch
+c0000000050B311B70000000000000093
+t1353912759
+s147
+i<Foundation/Foundation.h>
+
+N/var/folders/44/57_01gws5z975jp2dztpy59m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/png-Prefix-ghgvrcttevphqwcluduvqxnhqumw/png-Prefix.pch.pth
+t2
+s0
+
+CBuild AST from "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../png.c"
+r0
+
+CBuild AST from "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngerror.c"
+r0
+
+CBuild AST from "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngget.c"
+r0
+
+CBuild AST from "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngmem.c"
+r0
+
+CBuild AST from "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngpread.c"
+r0
+
+CBuild AST from "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngread.c"
+r0
+
+CBuild AST from "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngrio.c"
+r0
+
+CBuild AST from "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngrutil.c"
+r0
+
+CBuild AST from "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngset.c"
+r0
+
+CBuild AST from "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngtrans.c"
+r0
+
+CBuild AST from "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngwio.c"
+r0
+
+CBuild AST from "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngwrite.c"
+r0
+
+CBuild AST from "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngwtran.c"
+r0
+
+CBuild AST from "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngwutil.c"
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesb798033a4b63b641^54191e3a4b63b641^---0#1#0#--18"Check dependencies36"C0E5F677-DD83-4D34-AA53-42B519048518-
+
+CCompileC build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/png.o "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../png.c" normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s375606074.519202
+e375606075.452971
+r1
+xCompileC
+xbuild/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/png.o
+x/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../png.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../png.cd40b9a3a4b63b641^624a743b4b63b641^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/Riley/Developer/Open%20Source/My%20Projects/N64iOS/N64iOS/src/libpng/png/png/../../png.c0000000000000000^3325"CompileC build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/png.o png/../../png.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-generated-files.hmap" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-own-target-headers.hmap" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-all-target-headers.hmap" -iquote "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-project-headers.hmap" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/Debug-iphoneos/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/DerivedSources/armv7" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/DerivedSources" "-F/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/Debug-iphoneos" -include /var/folders/44/57_01gws5z975jp2dztpy59m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/png-Prefix-ghgvrcttevphqwcluduvqxnhqumw/png-Prefix.pch -MMD -MT dependencies -MF "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/png.d" --serialize-diagnostics "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/png.dia" -c "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../png.c" -o "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/png.o"36"5AA8809C-471E-47FD-AE05-6F66ABA558B0-
+
+CCompileC build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngerror.o "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngerror.c" normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s375606074.233444
+e375606074.497194
+r1
+xCompileC
+xbuild/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngerror.o
+x/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngerror.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngerror.c0ef93b3a4b63b641^0799803a4b63b641^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/Riley/Developer/Open%20Source/My%20Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngerror.c0000000000000000^3355"CompileC build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngerror.o png/../../pngerror.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-generated-files.hmap" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-own-target-headers.hmap" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-all-target-headers.hmap" -iquote "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-project-headers.hmap" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/Debug-iphoneos/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/DerivedSources/armv7" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/DerivedSources" "-F/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/Debug-iphoneos" -include /var/folders/44/57_01gws5z975jp2dztpy59m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/png-Prefix-ghgvrcttevphqwcluduvqxnhqumw/png-Prefix.pch -MMD -MT dependencies -MF "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngerror.d" --serialize-diagnostics "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngerror.dia" -c "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngerror.c" -o "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngerror.o"36"04FC4EDA-B30A-4A19-87E3-DD01D65706E1-
+
+CCompileC build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngget.o "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngget.c" normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s375606074.234596
+e375606074.788787
+r1
+xCompileC
+xbuild/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngget.o
+x/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngget.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngget.c4f3f3c3a4b63b641^18edc93a4b63b641^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/Riley/Developer/Open%20Source/My%20Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngget.c0000000000000000^3343"CompileC build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngget.o png/../../pngget.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-generated-files.hmap" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-own-target-headers.hmap" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-all-target-headers.hmap" -iquote "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-project-headers.hmap" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/Debug-iphoneos/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/DerivedSources/armv7" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/DerivedSources" "-F/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/Debug-iphoneos" -include /var/folders/44/57_01gws5z975jp2dztpy59m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/png-Prefix-ghgvrcttevphqwcluduvqxnhqumw/png-Prefix.pch -MMD -MT dependencies -MF "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngget.d" --serialize-diagnostics "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngget.dia" -c "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngget.c" -o "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngget.o"36"237D1EBE-C0A6-43EA-82BA-60B3EE365984-
+
+CCompileC build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngmem.o "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngmem.c" normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s375606074.812546
+e375606075.081031
+r1
+xCompileC
+xbuild/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngmem.o
+x/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngmem.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngmem.c390ae43a4b63b641^fdbd143b4b63b641^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/Riley/Developer/Open%20Source/My%20Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngmem.c0000000000000000^3343"CompileC build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngmem.o png/../../pngmem.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-generated-files.hmap" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-own-target-headers.hmap" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-all-target-headers.hmap" -iquote "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-project-headers.hmap" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/Debug-iphoneos/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/DerivedSources/armv7" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/DerivedSources" "-F/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/Debug-iphoneos" -include /var/folders/44/57_01gws5z975jp2dztpy59m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/png-Prefix-ghgvrcttevphqwcluduvqxnhqumw/png-Prefix.pch -MMD -MT dependencies -MF "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngmem.d" --serialize-diagnostics "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngmem.dia" -c "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngmem.c" -o "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngmem.o"36"5522DA6F-89D3-40D6-A97E-6B810CA6105E-
+
+CCompileC build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngpread.o "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngpread.c" normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s375606075.087221
+e375606075.453627
+r1
+xCompileC
+xbuild/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngpread.o
+x/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngpread.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngpread.c0797163b4b63b641^d462743b4b63b641^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/Riley/Developer/Open%20Source/My%20Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngpread.c0000000000000000^3355"CompileC build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngpread.o png/../../pngpread.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-generated-files.hmap" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-own-target-headers.hmap" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-all-target-headers.hmap" -iquote "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-project-headers.hmap" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/Debug-iphoneos/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/DerivedSources/armv7" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/DerivedSources" "-F/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/Debug-iphoneos" -include /var/folders/44/57_01gws5z975jp2dztpy59m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/png-Prefix-ghgvrcttevphqwcluduvqxnhqumw/png-Prefix.pch -MMD -MT dependencies -MF "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngpread.d" --serialize-diagnostics "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngpread.dia" -c "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngpread.c" -o "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngpread.o"36"E4213D37-4CAB-490E-85C8-9592B21A76E7-
+
+CCompileC build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngread.o "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngread.c" normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s375606075.459583
+e375606075.754523
+r1
+xCompileC
+xbuild/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngread.o
+x/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngread.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngread.c5ed9753b4b63b641^0534dd3b4b63b641^---0#0#0#-19%DVTDocumentLocation2@115"file://localhost/Users/Riley/Developer/Open%20Source/My%20Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngread.c0000000000000000^3349"CompileC build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngread.o png/../../pngread.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-generated-files.hmap" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-own-target-headers.hmap" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-all-target-headers.hmap" -iquote "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-project-headers.hmap" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/Debug-iphoneos/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/DerivedSources/armv7" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/DerivedSources" "-F/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/Debug-iphoneos" -include /var/folders/44/57_01gws5z975jp2dztpy59m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/png-Prefix-ghgvrcttevphqwcluduvqxnhqumw/png-Prefix.pch -MMD -MT dependencies -MF "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngread.d" --serialize-diagnostics "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngread.dia" -c "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngread.c" -o "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngread.o"36"5DF45A2F-0DF4-408C-BC75-B47D0BC26B7D-
+
+CCompileC build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngrio.o "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngrio.c" normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s375606075.460667
+e375606075.588808
+r1
+xCompileC
+xbuild/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngrio.o
+x/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngrio.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngrio.cc217763b4b63b641^2907973b4b63b641^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/Riley/Developer/Open%20Source/My%20Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngrio.c0000000000000000^3343"CompileC build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngrio.o png/../../pngrio.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-generated-files.hmap" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-own-target-headers.hmap" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-all-target-headers.hmap" -iquote "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-project-headers.hmap" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/Debug-iphoneos/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/DerivedSources/armv7" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/DerivedSources" "-F/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/Debug-iphoneos" -include /var/folders/44/57_01gws5z975jp2dztpy59m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/png-Prefix-ghgvrcttevphqwcluduvqxnhqumw/png-Prefix.pch -MMD -MT dependencies -MF "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngrio.d" --serialize-diagnostics "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngrio.dia" -c "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngrio.c" -o "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngrio.o"36"AAEC3154-5444-449D-9FBC-7E81979D0FEA-
+
+CCompileC build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngrutil.o "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngrutil.c" normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s375606075.605140
+e375606076.335170
+r1
+xCompileC
+xbuild/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngrutil.o
+x/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngrutil.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngrutil.cf84f9b3b4b63b641^dfde553c4b63b641^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/Riley/Developer/Open%20Source/My%20Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngrutil.c0000000000000000^3355"CompileC build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngrutil.o png/../../pngrutil.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-generated-files.hmap" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-own-target-headers.hmap" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-all-target-headers.hmap" -iquote "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-project-headers.hmap" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/Debug-iphoneos/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/DerivedSources/armv7" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/DerivedSources" "-F/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/Debug-iphoneos" -include /var/folders/44/57_01gws5z975jp2dztpy59m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/png-Prefix-ghgvrcttevphqwcluduvqxnhqumw/png-Prefix.pch -MMD -MT dependencies -MF "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngrutil.d" --serialize-diagnostics "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngrutil.dia" -c "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngrutil.c" -o "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngrutil.o"36"DC002843-DD70-4874-A870-A1C2F74BFB2A-
+
+CCompileC build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngset.o "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngset.c" normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s375606075.761195
+e375606076.015459
+r1
+xCompileC
+xbuild/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngset.o
+x/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngset.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngset.c740dc33b4b63b641^2a1d043c4b63b641^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/Riley/Developer/Open%20Source/My%20Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngset.c0000000000000000^3343"CompileC build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngset.o png/../../pngset.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-generated-files.hmap" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-own-target-headers.hmap" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-all-target-headers.hmap" -iquote "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-project-headers.hmap" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/Debug-iphoneos/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/DerivedSources/armv7" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/DerivedSources" "-F/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/Debug-iphoneos" -include /var/folders/44/57_01gws5z975jp2dztpy59m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/png-Prefix-ghgvrcttevphqwcluduvqxnhqumw/png-Prefix.pch -MMD -MT dependencies -MF "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngset.d" --serialize-diagnostics "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngset.dia" -c "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngset.c" -o "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngset.o"36"C6BE949D-6991-4986-B9B8-45FF5CFE8DAA-
+
+CCompileC build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngtrans.o "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngtrans.c" normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s375606076.016723
+e375606076.161799
+r1
+xCompileC
+xbuild/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngtrans.o
+x/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngtrans.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngtrans.c9580043c4b63b641^747b293c4b63b641^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/Riley/Developer/Open%20Source/My%20Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngtrans.c0000000000000000^3355"CompileC build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngtrans.o png/../../pngtrans.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-generated-files.hmap" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-own-target-headers.hmap" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-all-target-headers.hmap" -iquote "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-project-headers.hmap" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/Debug-iphoneos/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/DerivedSources/armv7" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/DerivedSources" "-F/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/Debug-iphoneos" -include /var/folders/44/57_01gws5z975jp2dztpy59m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/png-Prefix-ghgvrcttevphqwcluduvqxnhqumw/png-Prefix.pch -MMD -MT dependencies -MF "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngtrans.d" --serialize-diagnostics "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngtrans.dia" -c "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngtrans.c" -o "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngtrans.o"36"B32AC70A-60BE-4704-968C-8BD71C545750-
+
+CCompileC build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngwio.o "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngwio.c" normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s375606076.163184
+e375606076.259376
+r1
+xCompileC
+xbuild/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngwio.o
+x/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngwio.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngwio.c44fa293c4b63b641^9083423c4b63b641^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/Riley/Developer/Open%20Source/My%20Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngwio.c0000000000000000^3343"CompileC build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngwio.o png/../../pngwio.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-generated-files.hmap" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-own-target-headers.hmap" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-all-target-headers.hmap" -iquote "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-project-headers.hmap" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/Debug-iphoneos/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/DerivedSources/armv7" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/DerivedSources" "-F/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/Debug-iphoneos" -include /var/folders/44/57_01gws5z975jp2dztpy59m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/png-Prefix-ghgvrcttevphqwcluduvqxnhqumw/png-Prefix.pch -MMD -MT dependencies -MF "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngwio.d" --serialize-diagnostics "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngwio.dia" -c "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngwio.c" -o "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngwio.o"36"AD30F621-A4D2-437C-B2F1-5364FF9A9714-
+
+CCompileC build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngwrite.o "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngwrite.c" normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s375606076.260759
+e375606076.577759
+r1
+xCompileC
+xbuild/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngwrite.o
+x/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngwrite.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngwrite.c90f7423c4b63b641^90f6933c4b63b641^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/Riley/Developer/Open%20Source/My%20Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngwrite.c0000000000000000^3355"CompileC build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngwrite.o png/../../pngwrite.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-generated-files.hmap" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-own-target-headers.hmap" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-all-target-headers.hmap" -iquote "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-project-headers.hmap" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/Debug-iphoneos/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/DerivedSources/armv7" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/DerivedSources" "-F/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/Debug-iphoneos" -include /var/folders/44/57_01gws5z975jp2dztpy59m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/png-Prefix-ghgvrcttevphqwcluduvqxnhqumw/png-Prefix.pch -MMD -MT dependencies -MF "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngwrite.d" --serialize-diagnostics "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngwrite.dia" -c "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngwrite.c" -o "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngwrite.o"36"2BE259CF-DF1D-4193-9B3B-04C1668A8DBD-
+
+CCompileC build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngwtran.o "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngwtran.c" normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s375606076.336529
+e375606076.493907
+r1
+xCompileC
+xbuild/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngwtran.o
+x/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngwtran.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngwtran.c705c563c4b63b641^e4877e3c4b63b641^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/Riley/Developer/Open%20Source/My%20Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngwtran.c0000000000000000^3355"CompileC build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngwtran.o png/../../pngwtran.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-generated-files.hmap" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-own-target-headers.hmap" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-all-target-headers.hmap" -iquote "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-project-headers.hmap" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/Debug-iphoneos/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/DerivedSources/armv7" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/DerivedSources" "-F/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/Debug-iphoneos" -include /var/folders/44/57_01gws5z975jp2dztpy59m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/png-Prefix-ghgvrcttevphqwcluduvqxnhqumw/png-Prefix.pch -MMD -MT dependencies -MF "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngwtran.d" --serialize-diagnostics "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngwtran.dia" -c "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngwtran.c" -o "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngwtran.o"36"6ABD924E-E50E-4D50-A3EA-E49201CE2A71-
+
+CCompileC build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngwutil.o "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngwutil.c" normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s375606076.495223
+e375606076.731287
+r1
+xCompileC
+xbuild/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngwutil.o
+x/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngwutil.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngwutil.c34f57e3c4b63b641^1079bf3c4b63b641^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/Riley/Developer/Open%20Source/My%20Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngwutil.c0000000000000000^3355"CompileC build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngwutil.o png/../../pngwutil.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-generated-files.hmap" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-own-target-headers.hmap" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-all-target-headers.hmap" -iquote "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-project-headers.hmap" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/Debug-iphoneos/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/DerivedSources/armv7" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/DerivedSources" "-F/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/Debug-iphoneos" -include /var/folders/44/57_01gws5z975jp2dztpy59m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/png-Prefix-ghgvrcttevphqwcluduvqxnhqumw/png-Prefix.pch -MMD -MT dependencies -MF "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngwutil.d" --serialize-diagnostics "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngwutil.dia" -c "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/../../pngwutil.c" -o "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/pngwutil.o"36"B8E4B909-6DFF-46F7-8A42-F1CCC6CDA75F-
+
+CLibtool "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/Debug-iphoneos/libpng.a" normal armv7
+s375606076.802125
+e375606076.887589
+r1
+xLibtool
+x/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/Debug-iphoneos/libpng.a
+xnormal
+xarmv7
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Libtool build/Debug-iphoneos/libpng.a normal armv788f7d03c4b63b641^355de33c4b63b641^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#0#--1011"Libtool build/Debug-iphoneos/libpng.a normal armv7    cd "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png"    setenv IPHONEOS_DEPLOYMENT_TARGET 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk "-L/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/Debug-iphoneos" -filelist "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/Objects-normal/armv7/png.LinkFileList" -ObjC -framework Foundation -o "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/Debug-iphoneos/libpng.a"36"3ABDEBE4-86EF-423D-BF0C-0BDBC82AD5C1-
+
+CProcessPCH /Users/Riley/Library/Developer/Xcode/DerivedData/N64iOS-aopaulbwuhfylzfrlpehlsbnrmnr/Index/PrecompiledHeaders/png-Prefix-hiimzsgbdclpmlazdbcbhnzchoov_ast/png-Prefix.pch.pth png/png-Prefix.pch normal armv7 c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/44/57_01gws5z975jp2dztpy59m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/png-Prefix-ghgvrcttevphqwcluduvqxnhqumw/png-Prefix.pch.pth png/png-Prefix.pch normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s375606074.120740
+e375606074.168760
+r1
+xProcessPCH
+x/var/folders/44/57_01gws5z975jp2dztpy59m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/png-Prefix-ghgvrcttevphqwcluduvqxnhqumw/png-Prefix.pch.pth
+xpng/png-Prefix.pch
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection29"Precompile png/png-Prefix.pch98181f3a4b63b641^de722d3a4b63b641^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/Riley/Developer/Open%20Source/My%20Projects/N64iOS/N64iOS/src/libpng/png/png/png-Prefix.pch0000000000000000^3284"ProcessPCH /var/folders/44/57_01gws5z975jp2dztpy59m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/png-Prefix-ghgvrcttevphqwcluduvqxnhqumw/png-Prefix.pch.pth png/png-Prefix.pch normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c-header -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-generated-files.hmap" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-own-target-headers.hmap" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-all-target-headers.hmap" -iquote "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/png-project-headers.hmap" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/Debug-iphoneos/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/DerivedSources/armv7" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/png.build/Debug-iphoneos/png.build/DerivedSources" "-F/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/build/Debug-iphoneos" --serialize-diagnostics /var/folders/44/57_01gws5z975jp2dztpy59m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/png-Prefix-ghgvrcttevphqwcluduvqxnhqumw/png-Prefix.pch.dia -c "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/libpng/png/png/png-Prefix.pch" -o /var/folders/44/57_01gws5z975jp2dztpy59m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/png-Prefix-ghgvrcttevphqwcluduvqxnhqumw/png-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/44/57_01gws5z975jp2dztpy59m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/png-Prefix-ghgvrcttevphqwcluduvqxnhqumw/png-Prefix.pch.d36"1D27501D-8FC7-4733-ABEB-10502368DE0A-
+

@@ -1,0 +1,74 @@
+TEmulatorAssembly
+v5
+r1
+cCheck dependencies
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk
+c00000000509AFF7F0000000000000132
+t1352335231
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005073C7990000000000629C80
+t1349765017
+s6462592
+
+N/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/N64iOS/EmulatorAssembly/EmulatorAssembly-Prefix.pch
+c0000000050B557B600000000000000AD
+t1354061750
+s173
+
+N/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/N64iOS/EmulatorAssembly/EmulatorAssembly.h
+c0000000050B557B600000000000000E8
+t1354061750
+s232
+
+N/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/N64iOS/EmulatorAssembly/EmulatorAssembly.m
+c0000000050B557B600000000000000DD
+t1354061750
+s221
+
+N/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/N64iOS/build/Debug-iphoneos/include/EmulatorAssembly/EmulatorAssembly.h
+t2
+s0
+
+N/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/N64iOS/build/Debug-iphoneos/libEmulatorAssembly.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/N64iOS/build/N64iOS.build/Debug-iphoneos/EmulatorAssembly.build/Objects-normal/armv7/EmulatorAssembly.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/N64iOS/build/N64iOS.build/Debug-iphoneos/EmulatorAssembly.build/Objects-normal/armv7/EmulatorAssembly.o
+t2
+s0
+
+N/var/folders/44/57_01gws5z975jp2dztpy59m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/EmulatorAssembly-Prefix-amvjnukazrgqjhaqjpkxiyemlqep/EmulatorAssembly-Prefix.pch.pth
+t2
+s0
+
+CBuild AST from "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/N64iOS/EmulatorAssembly/EmulatorAssembly.m"
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies4930714b8f65b641^2d60724b8f65b641^---0#1#0#--18"Check dependencies36"777D6E84-7DF0-49B2-BEFA-6D444FBD8151-
+
+CCompileC build/N64iOS.build/Debug-iphoneos/EmulatorAssembly.build/Objects-normal/armv7/EmulatorAssembly.o "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/N64iOS/EmulatorAssembly/EmulatorAssembly.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CLibtool "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/N64iOS/build/Debug-iphoneos/libEmulatorAssembly.a" normal armv7
+r0
+
+CPBXCp EmulatorAssembly/EmulatorAssembly.h build/Debug-iphoneos/include/EmulatorAssembly/EmulatorAssembly.h
+r0
+
+CProcessPCH /Users/Riley/Library/Developer/Xcode/DerivedData/N64iOS-aopaulbwuhfylzfrlpehlsbnrmnr/Index/PrecompiledHeaders/EmulatorAssembly-Prefix-dceoaxcqeaobejcavxziacbtlbcy_ast/EmulatorAssembly-Prefix.pch.pth EmulatorAssembly/EmulatorAssembly-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/44/57_01gws5z975jp2dztpy59m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/EmulatorAssembly-Prefix-amvjnukazrgqjhaqjpkxiyemlqep/EmulatorAssembly-Prefix.pch.pth EmulatorAssembly/EmulatorAssembly-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+

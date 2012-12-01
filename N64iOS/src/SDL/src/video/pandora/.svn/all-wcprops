@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/5326/trunk/SDL/src/video/pandora
+END
+SDL_pandora_events.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/4523/trunk/SDL/src/video/pandora/SDL_pandora_events.h
+END
+SDL_pandora.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/5326/trunk/SDL/src/video/pandora/SDL_pandora.c
+END
+SDL_pandora_events.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/4523/trunk/SDL/src/video/pandora/SDL_pandora_events.c
+END
+SDL_pandora.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/4523/trunk/SDL/src/video/pandora/SDL_pandora.h
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/4341/trunk/SDL/src/video/riscos
+END
+SDL_riscosFullScreenVideo.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/4211/trunk/SDL/src/video/riscos/SDL_riscosFullScreenVideo.c
+END
+SDL_riscosevents_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/4211/trunk/SDL/src/video/riscos/SDL_riscosevents_c.h
+END
+SDL_riscosvideo.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/4211/trunk/SDL/src/video/riscos/SDL_riscosvideo.h
+END
+SDL_riscosmouse_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/4211/trunk/SDL/src/video/riscos/SDL_riscosmouse_c.h
+END
+SDL_riscosASM.S
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/4211/trunk/SDL/src/video/riscos/SDL_riscosASM.S
+END
+SDL_wimppoll.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/4341/trunk/SDL/src/video/riscos/SDL_wimppoll.c
+END
+SDL_wimpvideo.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/4211/trunk/SDL/src/video/riscos/SDL_wimpvideo.c
+END
+SDL_riscostask.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/4211/trunk/SDL/src/video/riscos/SDL_riscostask.c
+END
+SDL_riscosevents.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/4341/trunk/SDL/src/video/riscos/SDL_riscosevents.c
+END
+SDL_riscossprite.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/4211/trunk/SDL/src/video/riscos/SDL_riscossprite.c
+END
+SDL_riscosvideo.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/4211/trunk/SDL/src/video/riscos/SDL_riscosvideo.c
+END
+SDL_riscostask.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/4211/trunk/SDL/src/video/riscos/SDL_riscostask.h
+END
+SDL_riscosmouse.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/4211/trunk/SDL/src/video/riscos/SDL_riscosmouse.c
+END

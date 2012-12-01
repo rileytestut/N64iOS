@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/5370/trunk/SDL/test/automated/platform
+END
+platform.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/5306/trunk/SDL/test/automated/platform/platform.c
+END
+platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/5370/trunk/SDL/test/automated/platform/platform.h
+END

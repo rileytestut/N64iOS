@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/5380/trunk/SDL/src/video/uikit
+END
+SDL_uikitopengles.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/4211/trunk/SDL/src/video/uikit/SDL_uikitopengles.m
+END
+SDL_uikitopenglview.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/4211/trunk/SDL/src/video/uikit/SDL_uikitopenglview.m
+END
+jumphack.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/4103/trunk/SDL/src/video/uikit/jumphack.c
+END
+jumphack.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/4103/trunk/SDL/src/video/uikit/jumphack.h
+END
+SDL_uikitkeyboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/4211/trunk/SDL/src/video/uikit/SDL_uikitkeyboard.h
+END
+keyinfotable.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/4211/trunk/SDL/src/video/uikit/keyinfotable.h
+END
+SDL_uikitevents.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/4211/trunk/SDL/src/video/uikit/SDL_uikitevents.h
+END
+SDL_uikitvideo.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/4211/trunk/SDL/src/video/uikit/SDL_uikitvideo.h
+END
+SDL_uikitwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/4211/trunk/SDL/src/video/uikit/SDL_uikitwindow.h
+END
+SDL_uikitevents.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/4341/trunk/SDL/src/video/uikit/SDL_uikitevents.m
+END
+SDL_uikitview.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/5312/trunk/SDL/src/video/uikit/SDL_uikitview.h
+END
+SDL_uikitappdelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/5118/trunk/SDL/src/video/uikit/SDL_uikitappdelegate.h
+END
+SDL_uikitvideo.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/5380/trunk/SDL/src/video/uikit/SDL_uikitvideo.m
+END
+SDL_uikitopengles.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/4211/trunk/SDL/src/video/uikit/SDL_uikitopengles.h
+END
+SDL_uikitwindow.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/5118/trunk/SDL/src/video/uikit/SDL_uikitwindow.m
+END
+SDL_uikitview.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/4294/trunk/SDL/src/video/uikit/SDL_uikitview.m
+END
+SDL_uikitopenglview.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/4211/trunk/SDL/src/video/uikit/SDL_uikitopenglview.h
+END
+SDL_uikitappdelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/5188/trunk/SDL/src/video/uikit/SDL_uikitappdelegate.m
+END

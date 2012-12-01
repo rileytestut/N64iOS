@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/4211/trunk/SDL/src/video/fbcon
+END
+SDL_fbelo.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/4211/trunk/SDL/src/video/fbcon/SDL_fbelo.h
+END
+matrox_regs.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/2609/trunk/SDL/src/video/fbcon/matrox_regs.h
+END
+matrox_mmio.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/4211/trunk/SDL/src/video/fbcon/matrox_mmio.h
+END
+SDL_fbmouse.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/4211/trunk/SDL/src/video/fbcon/SDL_fbmouse.c
+END
+SDL_fbmouse_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/4211/trunk/SDL/src/video/fbcon/SDL_fbmouse_c.h
+END
+SDL_fbriva.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/4211/trunk/SDL/src/video/fbcon/SDL_fbriva.c
+END
+SDL_fb3dfx.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/4211/trunk/SDL/src/video/fbcon/SDL_fb3dfx.c
+END
+SDL_fbevents.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/4211/trunk/SDL/src/video/fbcon/SDL_fbevents.c
+END
+SDL_fbriva.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/4211/trunk/SDL/src/video/fbcon/SDL_fbriva.h
+END
+SDL_fbvideo.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/4211/trunk/SDL/src/video/fbcon/SDL_fbvideo.c
+END
+SDL_fb3dfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/4211/trunk/SDL/src/video/fbcon/SDL_fb3dfx.h
+END
+SDL_fbmatrox.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/4211/trunk/SDL/src/video/fbcon/SDL_fbmatrox.c
+END
+SDL_fbvideo.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/4211/trunk/SDL/src/video/fbcon/SDL_fbvideo.h
+END
+SDL_fbevents_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/4211/trunk/SDL/src/video/fbcon/SDL_fbevents_c.h
+END
+riva_regs.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/4211/trunk/SDL/src/video/fbcon/riva_regs.h
+END
+riva_mmio.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/2609/trunk/SDL/src/video/fbcon/riva_mmio.h
+END
+SDL_fbmatrox.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/4211/trunk/SDL/src/video/fbcon/SDL_fbmatrox.h
+END
+SDL_fbelo.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/4211/trunk/SDL/src/video/fbcon/SDL_fbelo.c
+END
+3dfx_regs.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/4211/trunk/SDL/src/video/fbcon/3dfx_regs.h
+END
+SDL_fbkeys.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/2609/trunk/SDL/src/video/fbcon/SDL_fbkeys.h
+END
+3dfx_mmio.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/4211/trunk/SDL/src/video/fbcon/3dfx_mmio.h
+END

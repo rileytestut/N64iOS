@@ -1,0 +1,23 @@
+K 10
+svn:ignore
+V 171
+aclocal.m4
+autom4te*
+config.cache
+config.log
+config.status
+configure
+libtool
+Makefile
+sdl-config
+SDL.spec
+SDL.qpg
+build
+build-deps
+VisualC
+VisualCE
+Xcode
+.DS_Store
+sdl.pc
+
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/5133/trunk/SDL/src/joystick/linux
+END
+SDL_sysjoystick.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/5133/trunk/SDL/src/joystick/linux/SDL_sysjoystick.c
+END
+SDL_sysjoystick_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/4211/trunk/SDL/src/joystick/linux/SDL_sysjoystick_c.h
+END

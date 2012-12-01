@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/5326/trunk/SDL/src/video/photon
+END
+SDL_photon.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/5075/trunk/SDL/src/video/photon/SDL_photon.h
+END
+SDL_photon_pixelfmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/5101/trunk/SDL/src/video/photon/SDL_photon_pixelfmt.c
+END
+SDL_photon_keycodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/5097/trunk/SDL/src/video/photon/SDL_photon_keycodes.h
+END
+SDL_photon_pixelfmt.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/4494/trunk/SDL/src/video/photon/SDL_photon_pixelfmt.h
+END
+SDL_photon_input.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/5326/trunk/SDL/src/video/photon/SDL_photon_input.c
+END
+SDL_photon_render.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/5326/trunk/SDL/src/video/photon/SDL_photon_render.c
+END
+SDL_photon.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/5326/trunk/SDL/src/video/photon/SDL_photon.c
+END
+SDL_photon_input.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/4514/trunk/SDL/src/video/photon/SDL_photon_input.h
+END
+SDL_photon_render.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/5097/trunk/SDL/src/video/photon/SDL_photon_render.h
+END

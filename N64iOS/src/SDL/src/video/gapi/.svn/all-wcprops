@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/4341/trunk/SDL/src/video/gapi
+END
+SDL_gapivideo.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/4211/trunk/SDL/src/video/gapi/SDL_gapivideo.h
+END
+SDL_gapivideo.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/4341/trunk/SDL/src/video/gapi/SDL_gapivideo.c
+END

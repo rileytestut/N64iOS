@@ -1,0 +1,56 @@
+<ui version="4.0" >
+ <class>MainWidget</class>
+ <widget class="QWidget" name="MainWidget" >
+  <property name="geometry" >
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>686</width>
+    <height>455</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>Form</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout" >
+   <property name="margin" >
+    <number>0</number>
+   </property>
+   <item>
+    <layout class="QHBoxLayout" name="horizontalLayout" >
+     <item>
+      <widget class="QLabel" name="label" >
+       <property name="text" >
+        <string>&amp;Filter:</string>
+       </property>
+       <property name="buddy" >
+        <cstring>lineEdit</cstring>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="lineEdit" />
+     </item>
+    </layout>
+   </item>
+   <item>
+    <widget class="QTreeView" name="treeView" >
+     <property name="contextMenuPolicy" >
+      <enum>Qt::CustomContextMenu</enum>
+     </property>
+     <property name="alternatingRowColors" >
+      <bool>true</bool>
+     </property>
+     <property name="rootIsDecorated" >
+      <bool>false</bool>
+     </property>
+     <property name="sortingEnabled" >
+      <bool>true</bool>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

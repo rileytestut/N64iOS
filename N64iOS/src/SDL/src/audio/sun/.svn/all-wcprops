@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/4211/trunk/SDL/src/audio/sun
+END
+SDL_sunaudio.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/4211/trunk/SDL/src/audio/sun/SDL_sunaudio.h
+END
+SDL_sunaudio.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/4211/trunk/SDL/src/audio/sun/SDL_sunaudio.c
+END

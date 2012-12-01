@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/5364/trunk/SDL/src/video/dummy
+END
+SDL_nullevents.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/4341/trunk/SDL/src/video/dummy/SDL_nullevents.c
+END
+SDL_nullrender_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/4211/trunk/SDL/src/video/dummy/SDL_nullrender_c.h
+END
+SDL_nullvideo.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/5360/trunk/SDL/src/video/dummy/SDL_nullvideo.c
+END
+SDL_nullevents_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/4211/trunk/SDL/src/video/dummy/SDL_nullevents_c.h
+END
+SDL_nullvideo.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/4211/trunk/SDL/src/video/dummy/SDL_nullvideo.h
+END
+SDL_nullrender.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/5364/trunk/SDL/src/video/dummy/SDL_nullrender.c
+END

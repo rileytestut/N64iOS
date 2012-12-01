@@ -1,0 +1,87 @@
+#/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+# *   Mupen64plus - pre.mk                                                  *
+# *   Mupen64Plus homepage: http://code.google.com/p/mupen64plus/           *
+# *   Copyright (C) 2007-2008 DarkJeztr Tillin9 Richard42                   *
+# *                                                                         *
+# *   This program is free software; you can redistribute it and/or modify  *
+# *   it under the terms of the GNU General Public License as published by  *
+# *   the Free Software Foundation; either version 2 of the License, or     *
+# *   (at your option) any later version.                                   *
+# *                                                                         *
+# *   This program is distributed in the hope that it will be useful,       *
+# *   but WITHOUT ANY WARRANTY; without even the implied warranty of        *
+# *   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the         *
+# *   GNU General Public License for more details.                          *
+# *                                                                         *
+# *   You should have received a copy of the GNU General Public License     *
+# *   along with this program; if not, write to the                         *
+# *   Free Software Foundation, Inc.,                                       *
+# *   51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA.          *
+# * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+
+# Edit me
+
+SDL_DIR = C:\SDL-1.2.13
+DLFCN-WIN32_DIR = C:\dlfcn-win32-static-r8
+GNUWIN32_DIR = C:\GnuWin32
+SDL_TTF_DIR = C:\SDL_ttf-2.0.9
+
+CPU = X86
+ARCH = 32BITS
+OS = WINDOWS
+
+# SDL
+CFLAGS += -I${SDL_DIR}/include/SDL -I${SDL_DIR}/include
+LDFLAGS += -L${SDL_DIR}/lib -lSDL
+
+# gnuwin32
+CFLAGS += -I${GNUWIN32_DIR}/include -I${GNUWIN32_DIR}/include/freetype2
+LDFLAGS += -L${GNUWIN32_DIR}/lib -lfreetype -lz -liconv -lpng
+
+# dlfcn-win
+CFLAGS += -I${DLFCN-WIN32_DIR}/include
+LDFLAGS += ${DLFCN-WIN32_DIR}/lib/libdl.a
+
+# Qt
+QT_H = ${shell qmake -query QT_INSTALL_HEADERS}
+QT_L = ${shell qmake -query QT_INSTALL_LIBS}
+CFLAGS += -I${QT_H} -I${QT_H}/QtGui -I${QT_H}/QtCore
+LDFLAGS += -L${QT_L} -lQtGui4 -lQtCore4
+MOC = moc
+UIC = uic
+
+# set base program pointers and flags
+CC      = gcc
+CXX     = g++
+LD      = g++
+ifeq ($(OS),LINUX)
+STRIP	= strip -s
+endif
+ifeq ($(OS),OSX)
+STRIP	= strip -x 
+endif
+RM      = rm
+MV      = mv
+CP      = cp
+MD      = mkdir
+QMAKE   = qmake
+LRELEASE = lrelease
+LUPDATE = lupdate
+
+MUPEN_VERSION = DEVEL
+PLUGIN_VERSION = DEVEL
+SVN_REVISION = UNKNOWN
+SVN_BRANCH = UNKNOWN
+SVN_DIFFHASH = UNKNOWN
+
+# set base CFLAGS and LDFLAGS
+CFLAGS += -pipe -O3 -ffast-math -funroll-loops -fexpensive-optimizations -fno-strict-aliasing 
+LDFLAGS += -lopengl32 -lglu32
+
+# set CFLAGS macro for no assembly language if required
+ifeq ($(NO_ASM), 1)
+  CFLAGS += -DNO_ASM
+endif
+
+
+SO_EXTENSION = dll

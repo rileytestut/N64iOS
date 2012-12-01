@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/4658/trunk/SDL/src/haptic
+END
+SDL_syshaptic.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/4032/trunk/SDL/src/haptic/SDL_syshaptic.h
+END
+SDL_haptic.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/4658/trunk/SDL/src/haptic/SDL_haptic.c
+END

@@ -1,0 +1,125 @@
+10
+
+dir
+5382
+http://svn.libsdl.org/trunk/SDL/VisualC/tests
+http://svn.libsdl.org
+
+
+
+2009-11-25T04:41:09.517445Z
+5315
+slouken
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c70aab31-4412-0410-b14c-859654838e24
+
+testdraw2
+dir
+
+testfile
+dir
+
+graywin
+dir
+
+testoverlay
+dir
+
+testgamma
+dir
+
+testwm
+dir
+
+automated
+dir
+
+testgl2
+dir
+
+testplatform
+dir
+
+testalpha
+dir
+
+testsprite2
+dir
+
+loopwave
+dir
+
+testpower
+dir
+
+testwin
+dir
+
+tests.sln
+file
+
+
+
+
+2009-12-12T06:47:16.000000Z
+4eb9173ef6bcdef503e39cc9ff25520e
+2009-06-17T04:26:19.482128Z
+4572
+icculus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9734
+
+testpalette
+dir
+
+testvidinfo
+dir
+
+testjoystick
+dir
+
+testgl
+dir
+
+testoverlay2
+dir
+
+testsprite
+dir
+
+checkkeys
+dir
+

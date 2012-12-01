@@ -1,0 +1,19 @@
+K 10
+svn:ignore
+V 172
+Makefile.in
+Makefile
+.libs
+*.o
+*.lo
+*.la
+SDL_systhread.c
+SDL_systhread_c.h
+SDL_syssem.c
+SDL_syssem_c.h
+SDL_sysmutex.c
+SDL_sysmutex_c.h
+SDL_syscond.c
+SDL_syscond_c.h
+clone.S
+END

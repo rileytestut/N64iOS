@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/4557/trunk/SDL/src/power/beos
+END
+SDL_syspower.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/4557/trunk/SDL/src/power/beos/SDL_syspower.c
+END

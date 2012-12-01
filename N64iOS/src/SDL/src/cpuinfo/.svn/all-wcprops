@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/5343/trunk/SDL/src/cpuinfo
+END
+SDL_cpuinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/5343/trunk/SDL/src/cpuinfo/SDL_cpuinfo.c
+END

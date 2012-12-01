@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/4525/trunk/SDL/src/thread/pthread
+END
+SDL_systhread_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/4211/trunk/SDL/src/thread/pthread/SDL_systhread_c.h
+END
+SDL_sysmutex.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/4211/trunk/SDL/src/thread/pthread/SDL_sysmutex.c
+END
+SDL_syscond.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/4211/trunk/SDL/src/thread/pthread/SDL_syscond.c
+END
+SDL_syssem.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/4211/trunk/SDL/src/thread/pthread/SDL_syssem.c
+END
+SDL_systhread.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/4525/trunk/SDL/src/thread/pthread/SDL_systhread.c
+END
+SDL_sysmutex_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/4211/trunk/SDL/src/thread/pthread/SDL_sysmutex_c.h
+END

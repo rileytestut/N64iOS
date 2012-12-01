@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/4525/trunk/SDL/src/audio/esd
+END
+SDL_esdaudio.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/4525/trunk/SDL/src/audio/esd/SDL_esdaudio.c
+END
+SDL_esdaudio.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/4211/trunk/SDL/src/audio/esd/SDL_esdaudio.h
+END

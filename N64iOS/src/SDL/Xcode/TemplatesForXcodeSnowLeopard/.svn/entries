@@ -1,0 +1,37 @@
+10
+
+dir
+5382
+http://svn.libsdl.org/trunk/SDL/Xcode/TemplatesForXcodeSnowLeopard
+http://svn.libsdl.org
+
+
+
+2009-10-04T16:26:34.173018Z
+4937
+slouken
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c70aab31-4412-0410-b14c-859654838e24
+
+SDL Application
+dir
+
+SDL Cocoa Application
+dir
+
+SDL OpenGL Application
+dir
+

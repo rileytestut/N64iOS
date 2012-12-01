@@ -1,0 +1,401 @@
+K 25
+svn:wc:ra_dav:version-url
+V 22
+/svn/!svn/ver/14/trunk
+END
+DepthBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/12/trunk/DepthBuffer.cpp
+END
+gSP.h
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/12/trunk/gSP.h
+END
+F3DWRUS.h
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/2/trunk/F3DWRUS.h
+END
+F3DPD.h
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/2/trunk/F3DPD.h
+END
+Config.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/13/trunk/Config.cpp
+END
+gles2n64.conf
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/13/trunk/gles2n64.conf
+END
+F3DEX.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/12/trunk/F3DEX.cpp
+END
+F3D.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/12/trunk/F3D.cpp
+END
+S2DEX2.h
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/2/trunk/S2DEX2.h
+END
+L3DEX.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/12/trunk/L3DEX.cpp
+END
+L3D.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/12/trunk/L3D.cpp
+END
+F3DDKR.h
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/2/trunk/F3DDKR.h
+END
+Textures.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/12/trunk/Textures.cpp
+END
+3DMath.h
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/11/trunk/3DMath.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/13/trunk/COPYING
+END
+gSP.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/12/trunk/gSP.cpp
+END
+Zilmar GFX 1.3.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/Zilmar%20GFX%201.3.h
+END
+S2DEX.h
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/2/trunk/S2DEX.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/12/trunk/Makefile
+END
+F3DWRUS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/12/trunk/F3DWRUS.cpp
+END
+Combiner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/12/trunk/Combiner.cpp
+END
+DepthBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/DepthBuffer.h
+END
+GBI.h
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/11/trunk/GBI.h
+END
+L3DEX2.h
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/2/trunk/L3DEX2.h
+END
+S2DEX2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/2/trunk/S2DEX2.cpp
+END
+Types.h
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/2/trunk/Types.h
+END
+gDP.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/12/trunk/gDP.cpp
+END
+CRC.h
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/2/trunk/CRC.h
+END
+F3DDKR.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/12/trunk/F3DDKR.cpp
+END
+F3D.h
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/2/trunk/F3D.h
+END
+OpenGL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/12/trunk/OpenGL.cpp
+END
+FrameBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/11/trunk/FrameBuffer.cpp
+END
+S2DEX.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/11/trunk/S2DEX.cpp
+END
+L3D.h
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/2/trunk/L3D.h
+END
+RDP.h
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/2/trunk/RDP.h
+END
+ShaderCombiner.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/13/trunk/ShaderCombiner.h
+END
+GBI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/12/trunk/GBI.cpp
+END
+L3DEX2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/12/trunk/L3DEX2.cpp
+END
+Combiner.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/11/trunk/Combiner.h
+END
+RSP.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/12/trunk/RSP.cpp
+END
+gles2N64.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/13/trunk/gles2N64.cpp
+END
+CRC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/2/trunk/CRC.cpp
+END
+N64.h
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/2/trunk/N64.h
+END
+VI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/12/trunk/VI.cpp
+END
+gDP.h
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/12/trunk/gDP.h
+END
+RDP.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/11/trunk/RDP.cpp
+END
+ShaderCombiner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/13/trunk/ShaderCombiner.cpp
+END
+Debug.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/13/trunk/Debug.cpp
+END
+2xSAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/2/trunk/2xSAI.cpp
+END
+OpenGL.h
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/12/trunk/OpenGL.h
+END
+FrameBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/FrameBuffer.h
+END
+F3DPD.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/12/trunk/F3DPD.cpp
+END
+F3DEX2.h
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/2/trunk/F3DEX2.h
+END
+N64.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/12/trunk/N64.cpp
+END
+gles2N64.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/13/trunk/gles2N64.h
+END
+RSP.h
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/12/trunk/RSP.h
+END
+Config.h
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/2/trunk/Config.h
+END
+F3DEX.h
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/2/trunk/F3DEX.h
+END
+VI.h
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/11/trunk/VI.h
+END
+L3DEX.h
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/2/trunk/L3DEX.h
+END
+convert.h
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/2/trunk/convert.h
+END
+winlnxdefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/12/trunk/winlnxdefs.h
+END
+Textures.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/12/trunk/Textures.h
+END
+Debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/11/trunk/Debug.h
+END
+F3DEX2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/12/trunk/F3DEX2.cpp
+END
+2xSAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/2/trunk/2xSAI.h
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/5307/trunk/SDL/test/automated/common
+END
+img_blit.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/4706/trunk/SDL/test/automated/common/img_blit.c
+END
+img_primitives.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/5296/trunk/SDL/test/automated/common/img_primitives.c
+END
+common.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/5307/trunk/SDL/test/automated/common/common.c
+END
+images.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/5306/trunk/SDL/test/automated/common/images.h
+END
+img_face.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/4706/trunk/SDL/test/automated/common/img_face.c
+END
+img_blitblend.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/4706/trunk/SDL/test/automated/common/img_blitblend.c
+END
+img_primitivesblend.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/4706/trunk/SDL/test/automated/common/img_primitivesblend.c
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/5302/trunk/SDL/test/automated/common/common.h
+END

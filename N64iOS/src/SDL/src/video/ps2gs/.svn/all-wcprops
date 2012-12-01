@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/4211/trunk/SDL/src/video/ps2gs
+END
+SDL_gsyuv.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/4211/trunk/SDL/src/video/ps2gs/SDL_gsyuv.c
+END
+SDL_gsevents.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/4211/trunk/SDL/src/video/ps2gs/SDL_gsevents.c
+END
+SDL_gsvideo.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/4211/trunk/SDL/src/video/ps2gs/SDL_gsvideo.c
+END
+SDL_gsmouse.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/4211/trunk/SDL/src/video/ps2gs/SDL_gsmouse.c
+END
+SDL_gsyuv_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/4211/trunk/SDL/src/video/ps2gs/SDL_gsyuv_c.h
+END
+SDL_gsevents_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/4211/trunk/SDL/src/video/ps2gs/SDL_gsevents_c.h
+END
+SDL_gsvideo.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/4211/trunk/SDL/src/video/ps2gs/SDL_gsvideo.h
+END
+SDL_gsmouse_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/4211/trunk/SDL/src/video/ps2gs/SDL_gsmouse_c.h
+END
+SDL_gskeys.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/2609/trunk/SDL/src/video/ps2gs/SDL_gskeys.h
+END

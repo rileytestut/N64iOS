@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/!svn/ver/5365/trunk/SDL/src/audio
+END
+SDL_mixer_MMX_VC.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/4211/trunk/SDL/src/audio/SDL_mixer_MMX_VC.c
+END
+SDL_mixer_m68k.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/4211/trunk/SDL/src/audio/SDL_mixer_m68k.h
+END
+SDL_audiodev.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/4211/trunk/SDL/src/audio/SDL_audiodev.c
+END
+SDL_audio.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/5365/trunk/SDL/src/audio/SDL_audio.c
+END
+sdlgenaudiocvt.pl
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/4389/trunk/SDL/src/audio/sdlgenaudiocvt.pl
+END
+SDL_mixer_MMX_VC.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/4211/trunk/SDL/src/audio/SDL_mixer_MMX_VC.h
+END
+SDL_wave.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/4211/trunk/SDL/src/audio/SDL_wave.c
+END
+SDL_sysaudio.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/4211/trunk/SDL/src/audio/SDL_sysaudio.h
+END
+SDL_mixer_MMX.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/4211/trunk/SDL/src/audio/SDL_mixer_MMX.c
+END
+SDL_audiomem.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/4211/trunk/SDL/src/audio/SDL_audiomem.h
+END
+SDL_audiodev_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/4211/trunk/SDL/src/audio/SDL_audiodev_c.h
+END
+SDL_wave.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/4211/trunk/SDL/src/audio/SDL_wave.h
+END
+SDL_audio_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/4378/trunk/SDL/src/audio/SDL_audio_c.h
+END
+SDL_mixer_MMX.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/2609/trunk/SDL/src/audio/SDL_mixer_MMX.h
+END
+SDL_audiocvt.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/5316/trunk/SDL/src/audio/SDL_audiocvt.c
+END
+SDL_audiotypecvt.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/4389/trunk/SDL/src/audio/SDL_audiotypecvt.c
+END
+SDL_mixer.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/4211/trunk/SDL/src/audio/SDL_mixer.c
+END
+SDL_mixer_m68k.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/4211/trunk/SDL/src/audio/SDL_mixer_m68k.c
+END

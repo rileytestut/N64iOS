@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 71
+Makefile.in
+SDL_main.c
+SDLMain.h
+SDLMain.m
+Makefile
+.libs
+*.o
+*.lo
+*.la
+END

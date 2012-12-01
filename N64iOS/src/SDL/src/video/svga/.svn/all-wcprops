@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/4211/trunk/SDL/src/video/svga
+END
+SDL_svgaevents_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/4211/trunk/SDL/src/video/svga/SDL_svgaevents_c.h
+END
+SDL_svgavideo.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/4211/trunk/SDL/src/video/svga/SDL_svgavideo.h
+END
+SDL_svgamouse_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/4211/trunk/SDL/src/video/svga/SDL_svgamouse_c.h
+END
+SDL_svgaevents.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/4211/trunk/SDL/src/video/svga/SDL_svgaevents.c
+END
+SDL_svgavideo.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/4211/trunk/SDL/src/video/svga/SDL_svgavideo.c
+END
+SDL_svgamouse.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/4211/trunk/SDL/src/video/svga/SDL_svgamouse.c
+END

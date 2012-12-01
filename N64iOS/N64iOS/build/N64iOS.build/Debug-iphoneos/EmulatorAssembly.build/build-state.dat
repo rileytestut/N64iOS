@@ -1,0 +1,104 @@
+TEmulatorAssembly
+v5
+r1
+cCheck dependencies
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk
+c00000000509AFF7F0000000000000132
+t1352335231
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005073C7990000000000629C80
+t1349765017
+s6462592
+
+N/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/N64iOS/EmulatorAssembly/EmulatorAssembly-Prefix.pch
+c0000000050B557B600000000000000AD
+t1354061750
+s173
+
+N/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/N64iOS/EmulatorAssembly/EmulatorAssembly.h
+c0000000050B557B600000000000000E8
+t1354061750
+s232
+
+N/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/N64iOS/EmulatorAssembly/EmulatorAssembly.m
+c0000000050B557B600000000000000DD
+t1354061750
+s221
+
+N/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/N64iOS/N64iOS/../../src/low.s
+c0000000050B5586100000000000000B3
+t1354061921
+s179
+
+N/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/N64iOS/build/Debug-iphoneos/include/EmulatorAssembly/EmulatorAssembly.h
+t2
+s0
+
+N/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/N64iOS/build/Debug-iphoneos/libEmulatorAssembly.a
+c0000000050B5589A00000000000004B0
+t1354061978
+s1200
+
+N/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/N64iOS/build/N64iOS.build/Debug-iphoneos/EmulatorAssembly.build/Objects-normal/armv7/EmulatorAssembly.LinkFileList
+c0000000050B558100000000000000098
+t1354061840
+s152
+
+N/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/N64iOS/build/N64iOS.build/Debug-iphoneos/EmulatorAssembly.build/Objects-normal/armv7/EmulatorAssembly.o
+t2
+s0
+
+N/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/N64iOS/build/N64iOS.build/Debug-iphoneos/EmulatorAssembly.build/Objects-normal/armv7/low.o
+t1354061978
+s1004
+
+N/var/folders/44/57_01gws5z975jp2dztpy59m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/EmulatorAssembly-Prefix-amvjnukazrgqjhaqjpkxiyemlqep/EmulatorAssembly-Prefix.pch.pth
+t2
+s0
+
+CBuild AST from "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/N64iOS/EmulatorAssembly/EmulatorAssembly.m"
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies189465e99065b641^456870e99065b641^-124"warning: no rule to process file '$(PROJECT_DIR)/N64iOS/../../src/low.s' of type sourcecode.asm.llvm for architecture armv71(21%IDEActivityLogMessage2@123"Warning: no rule to process file '$(PROJECT_DIR)/N64iOS/../../src/low.s' of type sourcecode.asm.llvm for architecture armv7-375754985#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--0#1#0#--18"Check dependencies36"5D2CA696-A741-497E-B9C8-43B9D168413E-
+
+CCompileC build/N64iOS.build/Debug-iphoneos/EmulatorAssembly.build/Objects-normal/armv7/EmulatorAssembly.o "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/N64iOS/EmulatorAssembly/EmulatorAssembly.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/N64iOS.build/Debug-iphoneos/EmulatorAssembly.build/Objects-normal/armv7/low.o "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/N64iOS/N64iOS/../../src/low.s" normal armv7 assembler-with-cpp com.apple.compilers.llvm.clang.1_0.compiler
+s375754778.602698
+e375754778.647656
+r1
+xCompileC
+xbuild/N64iOS.build/Debug-iphoneos/EmulatorAssembly.build/Objects-normal/armv7/low.o
+x/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/N64iOS/N64iOS/../../src/low.s
+xnormal
+xarmv7
+xassembler-with-cpp
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/N64iOS/N64iOS/../../src/low.s910e9b1a9065b641^4ce1a51a9065b641^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/Riley/Developer/Open%20Source/My%20Projects/N64iOS/N64iOS/N64iOS/N64iOS/../../src/low.s0000000000000000^6371"CompileC build/N64iOS.build/Debug-iphoneos/EmulatorAssembly.build/Objects-normal/armv7/low.o N64iOS/../../src/low.s normal armv7 assembler-with-cpp com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/N64iOS"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x assembler-with-cpp -arch armv7 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/N64iOS/build/N64iOS.build/Debug-iphoneos/EmulatorAssembly.build/EmulatorAssembly-generated-files.hmap" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/N64iOS/build/N64iOS.build/Debug-iphoneos/EmulatorAssembly.build/EmulatorAssembly-own-target-headers.hmap" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/N64iOS/build/N64iOS.build/Debug-iphoneos/EmulatorAssembly.build/EmulatorAssembly-all-target-headers.hmap" -iquote "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/N64iOS/build/N64iOS.build/Debug-iphoneos/EmulatorAssembly.build/EmulatorAssembly-project-headers.hmap" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/N64iOS/build/Debug-iphoneos/include" -I../src/SDL/src -I../src/SDL/src/atomic -I../src/SDL/src/audio -I../src/SDL/src/cpuinfo -I../src/SDL/src/events -I../src/SDL/src/file -I../src/SDL/src/haptic -I../src/SDL/src/joystick -I../src/SDL/src/libm -I../src/SDL/src/loadso -I../src/SDL/src/main -I../src/SDL/src/power -I../src/SDL/src/stdlib -I../src/SDL/src/thread -I../src/SDL/src/timer -I../src/SDL/src/video -I../src/SDL/src/atomic/dummy -I../src/SDL/src/atomic/linux -I../src/SDL/src/atomic/macosx -I../src/SDL/src/atomic/qnx -I../src/SDL/src/atomic/win32 -I../src/SDL/src/audio/alsa -I../src/SDL/src/audio/arts -I../src/SDL/src/audio/baudio -I../src/SDL/src/audio/bsd -I../src/SDL/src/audio/disk -I../src/SDL/src/audio/dma -I../src/SDL/src/audio/dmedia -I../src/SDL/src/audio/dsp -I../src/SDL/src/audio/dummy -I../src/SDL/src/audio/esd -I../src/SDL/src/audio/fusionsound -I../src/SDL/src/audio/iphoneos -I../src/SDL/src/audio/macosx -I../src/SDL/src/audio/mme -I../src/SDL/src/audio/nas -I../src/SDL/src/audio/nds -I../src/SDL/src/audio/paudio -I../src/SDL/src/audio/pulseaudio -I../src/SDL/src/audio/qsa -I../src/SDL/src/audio/sun -I../src/SDL/src/audio/ums -I../src/SDL/src/audio/windib -I../src/SDL/src/audio/windx5 -I../src/SDL/src/haptic/darwin -I../src/SDL/src/haptic/dummy -I../src/SDL/src/haptic/linux -I../src/SDL/src/haptic/nds -I../src/SDL/src/haptic/win32 -I../src/SDL/src/joystick/beos -I../src/SDL/src/joystick/bsd -I../src/SDL/src/joystick/darwin -I../src/SDL/src/joystick/dummy -I../src/SDL/src/joystick/iphoneos -I../src/SDL/src/joystick/linux -I../src/SDL/src/joystick/nds -I../src/SDL/src/joystick/riscos -I../src/SDL/src/joystick/win32 -I../src/SDL/src/loadso/beos -I../src/SDL/src/loadso/dlopen -I../src/SDL/src/loadso/dummy -I../src/SDL/src/loadso/macosx -I../src/SDL/src/loadso/win32 -I../src/SDL/src/main/beos -I../src/SDL/src/main/dummy -I../src/SDL/src/main/win32 -I../src/SDL/src/power/beos -I../src/SDL/src/power/linux -I../src/SDL/src/power/macosx -I../src/SDL/src/power/nds -I../src/SDL/src/power/windows -I../src/SDL/src/thread/beos -I../src/SDL/src/thread/generic -I../src/SDL/src/thread/irix -I../src/SDL/src/thread/nds -I../src/SDL/src/thread/pth -I../src/SDL/src/thread/pthread -I../src/SDL/src/thread/riscos -I../src/SDL/src/thread/win32 -I../src/SDL/src/timer/beos -I../src/SDL/src/timer/dummy -I../src/SDL/src/timer/nds -I../src/SDL/src/timer/riscos -I../src/SDL/src/timer/unix -I../src/SDL/src/timer/win32 -I../src/SDL/src/timer/wince -I../src/SDL/src/video/bwindow -I../src/SDL/src/video/cocoa -I../src/SDL/src/video/directfb -I../src/SDL/src/video/dummy -I../src/SDL/src/video/fbcon -I../src/SDL/src/video/gapi -I../src/SDL/src/video/nds -I../src/SDL/src/video/pandora -I../src/SDL/src/video/photon -I../src/SDL/src/video/ps2gs -I../src/SDL/src/video/ps3 -I../src/SDL/src/video/qnxgf -I../src/SDL/src/video/riscos -I../src/SDL/src/video/svga -I../src/SDL/src/video/uikit -I../src/SDL/src/video/win32 -I../src/SDL/src/video/x11 -I../src/SDL/src/video/Xext -I../src/SDL/src/joystick/darwin/10.3.9-FIX -I../src/SDL/src/video/ps3/spulibs -I../src/SDL/src/video/win32/wactab -I../src/SDL/src/video/Xext/extensions -I../src/SDL/src/video/Xext/Xinerama -I../src/SDL/src/video/Xext/XME -I../src/SDL/src/video/Xext/XmuStdCmap -I../src/SDL/src/video/Xext/Xv -I../src/SDL/src/video/Xext/Xxf86vm -I../src/SDL/include -I../src/libpng -I../src/Mupen64Plus/r4300 "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/N64iOS/build/N64iOS.build/Debug-iphoneos/EmulatorAssembly.build/DerivedSources/armv7" "-I/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/N64iOS/build/N64iOS.build/Debug-iphoneos/EmulatorAssembly.build/DerivedSources" "-F/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/N64iOS/build/Debug-iphoneos" -MMD -MT dependencies -MF "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/N64iOS/build/N64iOS.build/Debug-iphoneos/EmulatorAssembly.build/Objects-normal/armv7/low.d" --serialize-diagnostics "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/N64iOS/build/N64iOS.build/Debug-iphoneos/EmulatorAssembly.build/Objects-normal/armv7/low.dia" -c "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/N64iOS/N64iOS/../../src/low.s" -o "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/N64iOS/build/N64iOS.build/Debug-iphoneos/EmulatorAssembly.build/Objects-normal/armv7/low.o"36"3757D796-3ACB-4506-8224-1A4200762FD2-
+
+CLibtool "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/N64iOS/build/Debug-iphoneos/libEmulatorAssembly.a" normal armv7
+s375754778.654440
+e375754778.666098
+r1
+xLibtool
+x/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/N64iOS/build/Debug-iphoneos/libEmulatorAssembly.a
+xnormal
+xarmv7
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Libtool build/Debug-iphoneos/libEmulatorAssembly.a normal armv76b9ea71a9065b641^9296aa1a9065b641^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#0#--1012"Libtool build/Debug-iphoneos/libEmulatorAssembly.a normal armv7    cd "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/N64iOS"    setenv IPHONEOS_DEPLOYMENT_TARGET 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk "-L/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/N64iOS/build/Debug-iphoneos" -filelist "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/N64iOS/build/N64iOS.build/Debug-iphoneos/EmulatorAssembly.build/Objects-normal/armv7/EmulatorAssembly.LinkFileList" -ObjC -o "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/N64iOS/build/Debug-iphoneos/libEmulatorAssembly.a"36"22ADF699-4F83-4987-B671-AA582678C735-
+
+CPBXCp EmulatorAssembly/EmulatorAssembly.h build/Debug-iphoneos/include/EmulatorAssembly/EmulatorAssembly.h
+r0
+
+CProcessPCH /Users/Riley/Library/Developer/Xcode/DerivedData/N64iOS-aopaulbwuhfylzfrlpehlsbnrmnr/Index/PrecompiledHeaders/EmulatorAssembly-Prefix-dceoaxcqeaobejcavxziacbtlbcy_ast/EmulatorAssembly-Prefix.pch.pth EmulatorAssembly/EmulatorAssembly-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/44/57_01gws5z975jp2dztpy59m0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/EmulatorAssembly-Prefix-amvjnukazrgqjhaqjpkxiyemlqep/EmulatorAssembly-Prefix.pch.pth EmulatorAssembly/EmulatorAssembly-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+

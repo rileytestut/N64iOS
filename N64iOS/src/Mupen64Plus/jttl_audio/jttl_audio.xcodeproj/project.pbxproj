@@ -1,0 +1,158 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		BF0D18AE1660D6B20050AD3C /* Audio_1.2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Audio_1.2.h; sourceTree = "<group>"; };
+		BF0D18AF1660D6B20050AD3C /* gui.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = gui.h; sourceTree = "<group>"; };
+		BF0D18B01660D6B20050AD3C /* gui_gtk2.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = gui_gtk2.c; sourceTree = "<group>"; };
+		BF0D18B11660D6B20050AD3C /* gui_gtk2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = gui_gtk2.h; sourceTree = "<group>"; };
+		BF0D18B21660D6B20050AD3C /* gui_none.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = gui_none.c; sourceTree = "<group>"; };
+		BF0D18B31660D6B20050AD3C /* jttl_audio.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; path = jttl_audio.dylib; sourceTree = "<group>"; };
+		BF0D18B41660D6B20050AD3C /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		BF0D18B51660D6B20050AD3C /* main.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = main.h; sourceTree = "<group>"; };
+		BF0D18B61660D6B20050AD3C /* Makefile */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; };
+		BF0D18B71660D6B20050AD3C /* README */ = {isa = PBXFileReference; lastKnownFileType = text; path = README; sourceTree = "<group>"; };
+		BF0D18B81660D6B20050AD3C /* volume.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = volume.c; sourceTree = "<group>"; };
+		BF0D18B91660D6B20050AD3C /* volume.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = volume.h; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		BF0D18A61660D6B20050AD3C = {
+			isa = PBXGroup;
+			children = (
+				BF0D18AE1660D6B20050AD3C /* Audio_1.2.h */,
+				BF0D18AF1660D6B20050AD3C /* gui.h */,
+				BF0D18B01660D6B20050AD3C /* gui_gtk2.c */,
+				BF0D18B11660D6B20050AD3C /* gui_gtk2.h */,
+				BF0D18B21660D6B20050AD3C /* gui_none.c */,
+				BF0D18B31660D6B20050AD3C /* jttl_audio.dylib */,
+				BF0D18B41660D6B20050AD3C /* main.c */,
+				BF0D18B51660D6B20050AD3C /* main.h */,
+				BF0D18B61660D6B20050AD3C /* Makefile */,
+				BF0D18B71660D6B20050AD3C /* README */,
+				BF0D18B81660D6B20050AD3C /* volume.c */,
+				BF0D18B91660D6B20050AD3C /* volume.h */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXLegacyTarget section */
+		BF0D18AD1660D6B20050AD3C /* jttl_audio */ = {
+			isa = PBXLegacyTarget;
+			buildArgumentsString = "$(ACTION)";
+			buildConfigurationList = BF0D18BA1660D6B20050AD3C /* Build configuration list for PBXLegacyTarget "jttl_audio" */;
+			buildPhases = (
+			);
+			buildToolPath = /usr/bin/make;
+			buildWorkingDirectory = "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/Mupen64Plus/jttl_audio";
+			dependencies = (
+			);
+			name = jttl_audio;
+			passBuildSettingsInEnvironment = 1;
+			productName = jttl_audio;
+		};
+/* End PBXLegacyTarget section */
+
+/* Begin PBXProject section */
+		BF0D18A81660D6B20050AD3C /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = BF0D18AB1660D6B20050AD3C /* Build configuration list for PBXProject "jttl_audio" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = BF0D18A61660D6B20050AD3C;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				BF0D18AD1660D6B20050AD3C /* jttl_audio */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		BF0D18A91660D6B20050AD3C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx10.6;
+			};
+			name = Debug;
+		};
+		BF0D18AA1660D6B20050AD3C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				SDKROOT = macosx10.6;
+			};
+			name = Release;
+		};
+		BF0D18BB1660D6B20050AD3C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				DEBUGGING_SYMBOLS = YES;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = jttl_audio;
+				SDKROOT = iphoneos6.0;
+			};
+			name = Debug;
+		};
+		BF0D18BC1660D6B20050AD3C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = jttl_audio;
+				SDKROOT = iphoneos6.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		BF0D18AB1660D6B20050AD3C /* Build configuration list for PBXProject "jttl_audio" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BF0D18A91660D6B20050AD3C /* Debug */,
+				BF0D18AA1660D6B20050AD3C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BF0D18BA1660D6B20050AD3C /* Build configuration list for PBXLegacyTarget "jttl_audio" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BF0D18BB1660D6B20050AD3C /* Debug */,
+				BF0D18BC1660D6B20050AD3C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = BF0D18A81660D6B20050AD3C /* Project object */;
+}

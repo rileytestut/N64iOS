@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/4514/trunk/SDL/src/audio/qsa
+END
+SDL_qsa_audio.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/4514/trunk/SDL/src/audio/qsa/SDL_qsa_audio.c
+END
+SDL_qsa_audio.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/4514/trunk/SDL/src/audio/qsa/SDL_qsa_audio.h
+END

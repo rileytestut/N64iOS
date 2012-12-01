@@ -1,0 +1,268 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		BF0D185B1660D6A90050AD3C /* .DS_Store */ = {isa = PBXFileReference; lastKnownFileType = file; path = .DS_Store; sourceTree = "<group>"; };
+		BF0D185D1660D6A90050AD3C /* 2xSAI.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2xSAI.cpp; sourceTree = "<group>"; };
+		BF0D185E1660D6A90050AD3C /* 2xSAI.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 2xSAI.h; sourceTree = "<group>"; };
+		BF0D185F1660D6A90050AD3C /* 3DMath.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 3DMath.h; sourceTree = "<group>"; };
+		BF0D18601660D6A90050AD3C /* Combiner.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Combiner.cpp; sourceTree = "<group>"; };
+		BF0D18611660D6A90050AD3C /* Combiner.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Combiner.h; sourceTree = "<group>"; };
+		BF0D18621660D6A90050AD3C /* Config.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Config.cpp; sourceTree = "<group>"; };
+		BF0D18631660D6A90050AD3C /* Config.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Config.h; sourceTree = "<group>"; };
+		BF0D18641660D6A90050AD3C /* convert.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = convert.h; sourceTree = "<group>"; };
+		BF0D18651660D6A90050AD3C /* COPYING */ = {isa = PBXFileReference; lastKnownFileType = text; path = COPYING; sourceTree = "<group>"; };
+		BF0D18661660D6A90050AD3C /* CRC.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = CRC.cpp; sourceTree = "<group>"; };
+		BF0D18671660D6A90050AD3C /* CRC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CRC.h; sourceTree = "<group>"; };
+		BF0D18681660D6A90050AD3C /* Debug.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Debug.cpp; sourceTree = "<group>"; };
+		BF0D18691660D6A90050AD3C /* Debug.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Debug.h; sourceTree = "<group>"; };
+		BF0D186A1660D6A90050AD3C /* DepthBuffer.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = DepthBuffer.cpp; sourceTree = "<group>"; };
+		BF0D186B1660D6A90050AD3C /* DepthBuffer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DepthBuffer.h; sourceTree = "<group>"; };
+		BF0D186C1660D6A90050AD3C /* F3D.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = F3D.cpp; sourceTree = "<group>"; };
+		BF0D186D1660D6A90050AD3C /* F3D.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = F3D.h; sourceTree = "<group>"; };
+		BF0D186E1660D6A90050AD3C /* F3DDKR.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = F3DDKR.cpp; sourceTree = "<group>"; };
+		BF0D186F1660D6A90050AD3C /* F3DDKR.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = F3DDKR.h; sourceTree = "<group>"; };
+		BF0D18701660D6A90050AD3C /* F3DEX.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = F3DEX.cpp; sourceTree = "<group>"; };
+		BF0D18711660D6A90050AD3C /* F3DEX.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = F3DEX.h; sourceTree = "<group>"; };
+		BF0D18721660D6A90050AD3C /* F3DEX2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = F3DEX2.cpp; sourceTree = "<group>"; };
+		BF0D18731660D6A90050AD3C /* F3DEX2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = F3DEX2.h; sourceTree = "<group>"; };
+		BF0D18741660D6A90050AD3C /* F3DPD.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = F3DPD.cpp; sourceTree = "<group>"; };
+		BF0D18751660D6A90050AD3C /* F3DPD.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = F3DPD.h; sourceTree = "<group>"; };
+		BF0D18761660D6A90050AD3C /* F3DWRUS.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = F3DWRUS.cpp; sourceTree = "<group>"; };
+		BF0D18771660D6A90050AD3C /* F3DWRUS.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = F3DWRUS.h; sourceTree = "<group>"; };
+		BF0D18781660D6A90050AD3C /* FrameBuffer.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = FrameBuffer.cpp; sourceTree = "<group>"; };
+		BF0D18791660D6A90050AD3C /* FrameBuffer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FrameBuffer.h; sourceTree = "<group>"; };
+		BF0D187A1660D6A90050AD3C /* GBI.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = GBI.cpp; sourceTree = "<group>"; };
+		BF0D187B1660D6A90050AD3C /* GBI.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GBI.h; sourceTree = "<group>"; };
+		BF0D187C1660D6A90050AD3C /* gDP.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = gDP.cpp; sourceTree = "<group>"; };
+		BF0D187D1660D6A90050AD3C /* gDP.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = gDP.h; sourceTree = "<group>"; };
+		BF0D187E1660D6A90050AD3C /* gles2n64.conf */ = {isa = PBXFileReference; lastKnownFileType = text; path = gles2n64.conf; sourceTree = "<group>"; };
+		BF0D187F1660D6A90050AD3C /* gles2N64.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = gles2N64.cpp; sourceTree = "<group>"; };
+		BF0D18801660D6A90050AD3C /* gles2N64.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = gles2N64.h; sourceTree = "<group>"; };
+		BF0D18811660D6A90050AD3C /* gSP.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = gSP.cpp; sourceTree = "<group>"; };
+		BF0D18821660D6A90050AD3C /* gSP.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = gSP.h; sourceTree = "<group>"; };
+		BF0D18831660D6A90050AD3C /* L3D.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = L3D.cpp; sourceTree = "<group>"; };
+		BF0D18841660D6A90050AD3C /* L3D.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = L3D.h; sourceTree = "<group>"; };
+		BF0D18851660D6A90050AD3C /* L3DEX.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = L3DEX.cpp; sourceTree = "<group>"; };
+		BF0D18861660D6A90050AD3C /* L3DEX.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = L3DEX.h; sourceTree = "<group>"; };
+		BF0D18871660D6A90050AD3C /* L3DEX2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = L3DEX2.cpp; sourceTree = "<group>"; };
+		BF0D18881660D6A90050AD3C /* L3DEX2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = L3DEX2.h; sourceTree = "<group>"; };
+		BF0D18891660D6A90050AD3C /* Makefile */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; };
+		BF0D188A1660D6A90050AD3C /* N64.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = N64.cpp; sourceTree = "<group>"; };
+		BF0D188B1660D6A90050AD3C /* N64.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = N64.h; sourceTree = "<group>"; };
+		BF0D188C1660D6A90050AD3C /* OpenGL.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = OpenGL.cpp; sourceTree = "<group>"; };
+		BF0D188D1660D6A90050AD3C /* OpenGL.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = OpenGL.h; sourceTree = "<group>"; };
+		BF0D188E1660D6A90050AD3C /* RDP.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = RDP.cpp; sourceTree = "<group>"; };
+		BF0D188F1660D6A90050AD3C /* RDP.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RDP.h; sourceTree = "<group>"; };
+		BF0D18901660D6A90050AD3C /* RSP.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = RSP.cpp; sourceTree = "<group>"; };
+		BF0D18911660D6A90050AD3C /* RSP.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RSP.h; sourceTree = "<group>"; };
+		BF0D18921660D6A90050AD3C /* S2DEX.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = S2DEX.cpp; sourceTree = "<group>"; };
+		BF0D18931660D6A90050AD3C /* S2DEX.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = S2DEX.h; sourceTree = "<group>"; };
+		BF0D18941660D6A90050AD3C /* S2DEX2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = S2DEX2.cpp; sourceTree = "<group>"; };
+		BF0D18951660D6A90050AD3C /* S2DEX2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = S2DEX2.h; sourceTree = "<group>"; };
+		BF0D18961660D6A90050AD3C /* ShaderCombiner.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = ShaderCombiner.cpp; sourceTree = "<group>"; };
+		BF0D18971660D6A90050AD3C /* ShaderCombiner.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ShaderCombiner.h; sourceTree = "<group>"; };
+		BF0D18981660D6A90050AD3C /* Textures.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Textures.cpp; sourceTree = "<group>"; };
+		BF0D18991660D6A90050AD3C /* Textures.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Textures.h; sourceTree = "<group>"; };
+		BF0D189A1660D6A90050AD3C /* Types.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Types.h; sourceTree = "<group>"; };
+		BF0D189B1660D6A90050AD3C /* VI.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = VI.cpp; sourceTree = "<group>"; };
+		BF0D189C1660D6A90050AD3C /* VI.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = VI.h; sourceTree = "<group>"; };
+		BF0D189D1660D6A90050AD3C /* winlnxdefs.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = winlnxdefs.h; sourceTree = "<group>"; };
+		BF0D189E1660D6A90050AD3C /* Zilmar GFX 1.3.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Zilmar GFX 1.3.h"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		BF0D18531660D6A90050AD3C = {
+			isa = PBXGroup;
+			children = (
+				BF0D185B1660D6A90050AD3C /* .DS_Store */,
+				BF0D185D1660D6A90050AD3C /* 2xSAI.cpp */,
+				BF0D185E1660D6A90050AD3C /* 2xSAI.h */,
+				BF0D185F1660D6A90050AD3C /* 3DMath.h */,
+				BF0D18601660D6A90050AD3C /* Combiner.cpp */,
+				BF0D18611660D6A90050AD3C /* Combiner.h */,
+				BF0D18621660D6A90050AD3C /* Config.cpp */,
+				BF0D18631660D6A90050AD3C /* Config.h */,
+				BF0D18641660D6A90050AD3C /* convert.h */,
+				BF0D18651660D6A90050AD3C /* COPYING */,
+				BF0D18661660D6A90050AD3C /* CRC.cpp */,
+				BF0D18671660D6A90050AD3C /* CRC.h */,
+				BF0D18681660D6A90050AD3C /* Debug.cpp */,
+				BF0D18691660D6A90050AD3C /* Debug.h */,
+				BF0D186A1660D6A90050AD3C /* DepthBuffer.cpp */,
+				BF0D186B1660D6A90050AD3C /* DepthBuffer.h */,
+				BF0D186C1660D6A90050AD3C /* F3D.cpp */,
+				BF0D186D1660D6A90050AD3C /* F3D.h */,
+				BF0D186E1660D6A90050AD3C /* F3DDKR.cpp */,
+				BF0D186F1660D6A90050AD3C /* F3DDKR.h */,
+				BF0D18701660D6A90050AD3C /* F3DEX.cpp */,
+				BF0D18711660D6A90050AD3C /* F3DEX.h */,
+				BF0D18721660D6A90050AD3C /* F3DEX2.cpp */,
+				BF0D18731660D6A90050AD3C /* F3DEX2.h */,
+				BF0D18741660D6A90050AD3C /* F3DPD.cpp */,
+				BF0D18751660D6A90050AD3C /* F3DPD.h */,
+				BF0D18761660D6A90050AD3C /* F3DWRUS.cpp */,
+				BF0D18771660D6A90050AD3C /* F3DWRUS.h */,
+				BF0D18781660D6A90050AD3C /* FrameBuffer.cpp */,
+				BF0D18791660D6A90050AD3C /* FrameBuffer.h */,
+				BF0D187A1660D6A90050AD3C /* GBI.cpp */,
+				BF0D187B1660D6A90050AD3C /* GBI.h */,
+				BF0D187C1660D6A90050AD3C /* gDP.cpp */,
+				BF0D187D1660D6A90050AD3C /* gDP.h */,
+				BF0D187E1660D6A90050AD3C /* gles2n64.conf */,
+				BF0D187F1660D6A90050AD3C /* gles2N64.cpp */,
+				BF0D18801660D6A90050AD3C /* gles2N64.h */,
+				BF0D18811660D6A90050AD3C /* gSP.cpp */,
+				BF0D18821660D6A90050AD3C /* gSP.h */,
+				BF0D18831660D6A90050AD3C /* L3D.cpp */,
+				BF0D18841660D6A90050AD3C /* L3D.h */,
+				BF0D18851660D6A90050AD3C /* L3DEX.cpp */,
+				BF0D18861660D6A90050AD3C /* L3DEX.h */,
+				BF0D18871660D6A90050AD3C /* L3DEX2.cpp */,
+				BF0D18881660D6A90050AD3C /* L3DEX2.h */,
+				BF0D18891660D6A90050AD3C /* Makefile */,
+				BF0D188A1660D6A90050AD3C /* N64.cpp */,
+				BF0D188B1660D6A90050AD3C /* N64.h */,
+				BF0D188C1660D6A90050AD3C /* OpenGL.cpp */,
+				BF0D188D1660D6A90050AD3C /* OpenGL.h */,
+				BF0D188E1660D6A90050AD3C /* RDP.cpp */,
+				BF0D188F1660D6A90050AD3C /* RDP.h */,
+				BF0D18901660D6A90050AD3C /* RSP.cpp */,
+				BF0D18911660D6A90050AD3C /* RSP.h */,
+				BF0D18921660D6A90050AD3C /* S2DEX.cpp */,
+				BF0D18931660D6A90050AD3C /* S2DEX.h */,
+				BF0D18941660D6A90050AD3C /* S2DEX2.cpp */,
+				BF0D18951660D6A90050AD3C /* S2DEX2.h */,
+				BF0D18961660D6A90050AD3C /* ShaderCombiner.cpp */,
+				BF0D18971660D6A90050AD3C /* ShaderCombiner.h */,
+				BF0D18981660D6A90050AD3C /* Textures.cpp */,
+				BF0D18991660D6A90050AD3C /* Textures.h */,
+				BF0D189A1660D6A90050AD3C /* Types.h */,
+				BF0D189B1660D6A90050AD3C /* VI.cpp */,
+				BF0D189C1660D6A90050AD3C /* VI.h */,
+				BF0D189D1660D6A90050AD3C /* winlnxdefs.h */,
+				BF0D189E1660D6A90050AD3C /* Zilmar GFX 1.3.h */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXLegacyTarget section */
+		BF0D185A1660D6A90050AD3C /* gles2n64-read-only */ = {
+			isa = PBXLegacyTarget;
+			buildArgumentsString = "$(ACTION)";
+			buildConfigurationList = BF0D189F1660D6A90050AD3C /* Build configuration list for PBXLegacyTarget "gles2n64-read-only" */;
+			buildPhases = (
+			);
+			buildToolPath = /usr/bin/make;
+			buildWorkingDirectory = "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/gles2n64-read-only";
+			dependencies = (
+			);
+			name = "gles2n64-read-only";
+			passBuildSettingsInEnvironment = 1;
+			productName = "gles2n64-read-only";
+		};
+/* End PBXLegacyTarget section */
+
+/* Begin PBXProject section */
+		BF0D18551660D6A90050AD3C /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = BF0D18581660D6A90050AD3C /* Build configuration list for PBXProject "gles2n64-read-only" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = BF0D18531660D6A90050AD3C;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				BF0D185A1660D6A90050AD3C /* gles2n64-read-only */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		BF0D18561660D6A90050AD3C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx10.6;
+			};
+			name = Debug;
+		};
+		BF0D18571660D6A90050AD3C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				SDKROOT = macosx10.6;
+			};
+			name = Release;
+		};
+		BF0D18A01660D6A90050AD3C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				DEBUGGING_SYMBOLS = YES;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "gles2n64-read-only";
+				SDKROOT = iphoneos6.0;
+			};
+			name = Debug;
+		};
+		BF0D18A11660D6A90050AD3C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "gles2n64-read-only";
+				SDKROOT = iphoneos6.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		BF0D18581660D6A90050AD3C /* Build configuration list for PBXProject "gles2n64-read-only" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BF0D18561660D6A90050AD3C /* Debug */,
+				BF0D18571660D6A90050AD3C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BF0D189F1660D6A90050AD3C /* Build configuration list for PBXLegacyTarget "gles2n64-read-only" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BF0D18A01660D6A90050AD3C /* Debug */,
+				BF0D18A11660D6A90050AD3C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = BF0D18551660D6A90050AD3C /* Project object */;
+}

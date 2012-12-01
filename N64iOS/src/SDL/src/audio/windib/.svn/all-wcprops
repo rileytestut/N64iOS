@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/4369/trunk/SDL/src/audio/windib
+END
+SDL_dibaudio.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/4369/trunk/SDL/src/audio/windib/SDL_dibaudio.c
+END
+SDL_dibaudio.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/4211/trunk/SDL/src/audio/windib/SDL_dibaudio.h
+END

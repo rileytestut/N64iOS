@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/4813/trunk/SDL/src/thread
+END
+SDL_thread_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/4730/trunk/SDL/src/thread/SDL_thread_c.h
+END
+SDL_thread.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/4813/trunk/SDL/src/thread/SDL_thread.c
+END
+SDL_systhread.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/4211/trunk/SDL/src/thread/SDL_systhread.h
+END

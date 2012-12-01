@@ -1,0 +1,29 @@
+Tdummy_video
+v5
+r1
+cCheck dependencies
+cExternalBuildToolExecution dummy_video
+
+N/usr/bin/make
+c000000005075015B00000000000533A0
+t1349845339
+s340896
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies3ca59b3eed65b641^793d9c3eed65b641^---0#1#0#--18"Check dependencies36"E8A4A8AA-6ACF-4F79-B205-1393E8B70A7E-
+
+CExternalBuildToolExecution dummy_video
+s375778622.611327
+e375778622.777603
+r0
+xExternalBuildToolExecution
+xdummy_video
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/PrivateFrameworks -I./ -I../../ -I../../Ads -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -L/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/usr/lib -DARM_ARCH -arch armv7 -I../../include/ -I../../include/freetype/  -I../../include/ -DWITH_ADS -pipe -march=armv7 -mno-thumb  -miphoneos-version-min=3.0 -fomit-frame-pointer -fpic -DPIC -D__LINUX__ -DX86_ASM -I../../include/ -I../../include/SDL/ -I./../SDL/src/ -I./../SDL/src/events -I./../SDL/src/video -I./../SDL/src/video/uikit  -DMAINDEF -c -o video.o video.cpp
+oclang: warning: argument unused during compilation: '-L/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/usr/lib'
+ovideo.cpp:148:5: error: use of undeclared identifier 'printf'
+o    printf("Setting config directory video...");
+o    ^
+o1 error generated.
+omake: *** [video.o] Error 1
+

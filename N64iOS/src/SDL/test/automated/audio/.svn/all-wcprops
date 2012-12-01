@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/5306/trunk/SDL/test/automated/audio
+END
+audio.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/5306/trunk/SDL/test/automated/audio/audio.c
+END
+audio.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/4706/trunk/SDL/test/automated/audio/audio.h
+END

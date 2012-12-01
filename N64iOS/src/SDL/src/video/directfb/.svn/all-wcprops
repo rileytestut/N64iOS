@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/5348/trunk/SDL/src/video/directfb
+END
+SDL_DirectFB_dyn.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/4380/trunk/SDL/src/video/directfb/SDL_DirectFB_dyn.c
+END
+SDL_DirectFB_mouse.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/4211/trunk/SDL/src/video/directfb/SDL_DirectFB_mouse.h
+END
+SDL_DirectFB_dyn.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/4380/trunk/SDL/src/video/directfb/SDL_DirectFB_dyn.h
+END
+SDL_DirectFB_events.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/4399/trunk/SDL/src/video/directfb/SDL_DirectFB_events.c
+END
+SDL_DirectFB_video.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/5326/trunk/SDL/src/video/directfb/SDL_DirectFB_video.c
+END
+SDL_DirectFB_window.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/4399/trunk/SDL/src/video/directfb/SDL_DirectFB_window.c
+END
+SDL_DirectFB_modes.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/5326/trunk/SDL/src/video/directfb/SDL_DirectFB_modes.c
+END
+SDL_DirectFB_events.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/4211/trunk/SDL/src/video/directfb/SDL_DirectFB_events.h
+END
+SDL_DirectFB_video.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/4399/trunk/SDL/src/video/directfb/SDL_DirectFB_video.h
+END
+SDL_DirectFB_window.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/4380/trunk/SDL/src/video/directfb/SDL_DirectFB_window.h
+END
+SDL_DirectFB_modes.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/5326/trunk/SDL/src/video/directfb/SDL_DirectFB_modes.h
+END
+SDL_DirectFB_render.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/5348/trunk/SDL/src/video/directfb/SDL_DirectFB_render.c
+END
+SDL_DirectFB_WM.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/4399/trunk/SDL/src/video/directfb/SDL_DirectFB_WM.c
+END
+SDL_DirectFB_opengl.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/4380/trunk/SDL/src/video/directfb/SDL_DirectFB_opengl.c
+END
+SDL_DirectFB_render.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/4211/trunk/SDL/src/video/directfb/SDL_DirectFB_render.h
+END
+SDL_DirectFB_mouse.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/4380/trunk/SDL/src/video/directfb/SDL_DirectFB_mouse.c
+END
+SDL_DirectFB_WM.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/4399/trunk/SDL/src/video/directfb/SDL_DirectFB_WM.h
+END
+SDL_DirectFB_opengl.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/4211/trunk/SDL/src/video/directfb/SDL_DirectFB_opengl.h
+END

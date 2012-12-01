@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/!svn/ver/4956/trunk/SDL/Xcode
+END
+uninstall.csh
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/4900/trunk/SDL/Xcode/uninstall.csh
+END
+mkxcode.csh
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/4900/trunk/SDL/Xcode/mkxcode.csh
+END
+stationary.csh
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/4900/trunk/SDL/Xcode/stationary.csh
+END
+package
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/4900/trunk/SDL/Xcode/package
+END

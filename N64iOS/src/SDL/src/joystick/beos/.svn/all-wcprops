@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/4211/trunk/SDL/src/joystick/beos
+END
+SDL_bejoystick.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/4211/trunk/SDL/src/joystick/beos/SDL_bejoystick.cc
+END

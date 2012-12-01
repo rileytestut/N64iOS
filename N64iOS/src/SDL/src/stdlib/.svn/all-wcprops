@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/5368/trunk/SDL/src/stdlib
+END
+SDL_iconv.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/5368/trunk/SDL/src/stdlib/SDL_iconv.c
+END
+SDL_stdlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/4702/trunk/SDL/src/stdlib/SDL_stdlib.c
+END
+SDL_string.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/4700/trunk/SDL/src/stdlib/SDL_string.c
+END
+SDL_malloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/4211/trunk/SDL/src/stdlib/SDL_malloc.c
+END
+SDL_getenv.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/4211/trunk/SDL/src/stdlib/SDL_getenv.c
+END
+SDL_qsort.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/4525/trunk/SDL/src/stdlib/SDL_qsort.c
+END

@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/5382/trunk/SDL/src/video/win32
+END
+SDL_win32events.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/4211/trunk/SDL/src/video/win32/SDL_win32events.h
+END
+wmmsg.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/3088/trunk/SDL/src/video/win32/wmmsg.h
+END
+SDL_win32video.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/4568/trunk/SDL/src/video/win32/SDL_win32video.h
+END
+SDL_win32window.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/4324/trunk/SDL/src/video/win32/SDL_win32window.h
+END
+SDL_win32modes.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/5356/trunk/SDL/src/video/win32/SDL_win32modes.h
+END
+SDL_gdirender.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/5364/trunk/SDL/src/video/win32/SDL_gdirender.c
+END
+SDL_win32gamma.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/5326/trunk/SDL/src/video/win32/SDL_win32gamma.c
+END
+SDL_vkeys.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/4211/trunk/SDL/src/video/win32/SDL_vkeys.h
+END
+SDL_win32opengl.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/4514/trunk/SDL/src/video/win32/SDL_win32opengl.c
+END
+SDL_gdirender.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/4211/trunk/SDL/src/video/win32/SDL_gdirender.h
+END
+SDL_ceddrawrender.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/5348/trunk/SDL/src/video/win32/SDL_ceddrawrender.c
+END
+SDL_d3drender.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/5382/trunk/SDL/src/video/win32/SDL_d3drender.c
+END
+SDL_win32gamma.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/5326/trunk/SDL/src/video/win32/SDL_win32gamma.h
+END
+SDL_win32mouse.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/4700/trunk/SDL/src/video/win32/SDL_win32mouse.c
+END
+SDL_win32opengl.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/4419/trunk/SDL/src/video/win32/SDL_win32opengl.h
+END
+SDL_ceddrawrender.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/4536/trunk/SDL/src/video/win32/SDL_ceddrawrender.h
+END
+SDL_d3drender.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/4211/trunk/SDL/src/video/win32/SDL_d3drender.h
+END
+SDL_gapirender.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/5348/trunk/SDL/src/video/win32/SDL_gapirender.c
+END
+SDL_win32mouse.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/4211/trunk/SDL/src/video/win32/SDL_win32mouse.h
+END
+SDL_win32keyboard.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/4211/trunk/SDL/src/video/win32/SDL_win32keyboard.c
+END
+SDL_gapirender.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/4536/trunk/SDL/src/video/win32/SDL_gapirender.h
+END
+SDL_win32events.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/4707/trunk/SDL/src/video/win32/SDL_win32events.c
+END
+SDL_gapirender_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/4536/trunk/SDL/src/video/win32/SDL_gapirender_c.h
+END
+SDL_win32keyboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/4211/trunk/SDL/src/video/win32/SDL_win32keyboard.h
+END
+SDL_win32video.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/5356/trunk/SDL/src/video/win32/SDL_win32video.c
+END
+SDL_win32modes.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/5356/trunk/SDL/src/video/win32/SDL_win32modes.c
+END
+SDL_win32window.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/5358/trunk/SDL/src/video/win32/SDL_win32window.c
+END

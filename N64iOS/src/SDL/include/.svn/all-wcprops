@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/!svn/ver/5365/trunk/SDL/include
+END
+SDL_config.h.default
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/5157/trunk/SDL/include/SDL_config.h.default
+END
+SDL_error.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/5157/trunk/SDL/include/SDL_error.h
+END
+SDL_rect.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/5364/trunk/SDL/include/SDL_rect.h
+END
+SDL_audio.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/5365/trunk/SDL/include/SDL_audio.h
+END
+SDL_cpuinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/5157/trunk/SDL/include/SDL_cpuinfo.h
+END
+SDL_pixels.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/5308/trunk/SDL/include/SDL_pixels.h
+END
+SDL_events.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/5157/trunk/SDL/include/SDL_events.h
+END
+SDL_video.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/5364/trunk/SDL/include/SDL_video.h
+END
+SDL_thread.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/5157/trunk/SDL/include/SDL_thread.h
+END
+SDL_haptic.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/5321/trunk/SDL/include/SDL_haptic.h
+END
+SDL_config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/5224/trunk/SDL/include/SDL_config.h.in
+END
+SDL_rwops.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/5157/trunk/SDL/include/SDL_rwops.h
+END
+SDL_opengles.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/5157/trunk/SDL/include/SDL_opengles.h
+END
+SDL_atomic.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/5157/trunk/SDL/include/SDL_atomic.h
+END
+begin_code.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/5157/trunk/SDL/include/begin_code.h
+END
+SDL_scancode.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/5157/trunk/SDL/include/SDL_scancode.h
+END
+SDL_timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/5157/trunk/SDL/include/SDL_timer.h
+END
+SDL_compat.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/5364/trunk/SDL/include/SDL_compat.h
+END
+SDL_stdinc.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/5157/trunk/SDL/include/SDL_stdinc.h
+END
+SDL_main.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/5157/trunk/SDL/include/SDL_main.h
+END
+SDL_opengl.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/5157/trunk/SDL/include/SDL_opengl.h
+END
+SDL_version.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/5157/trunk/SDL/include/SDL_version.h
+END
+SDL_config_win32.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/4690/trunk/SDL/include/SDL_config_win32.h
+END
+SDL_surface.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/5364/trunk/SDL/include/SDL_surface.h
+END
+SDL_mouse.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/5157/trunk/SDL/include/SDL_mouse.h
+END
+SDL_config_nintendods.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/4690/trunk/SDL/include/SDL_config_nintendods.h
+END
+doxyfile
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/2609/trunk/SDL/include/doxyfile
+END
+SDL_power.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/5227/trunk/SDL/include/SDL_power.h
+END
+close_code.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/5157/trunk/SDL/include/close_code.h
+END
+SDL_endian.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/5157/trunk/SDL/include/SDL_endian.h
+END
+SDL_config_wiz.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/5261/trunk/SDL/include/SDL_config_wiz.h
+END
+SDL_joystick.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/5157/trunk/SDL/include/SDL_joystick.h
+END
+SDL_keyboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/5157/trunk/SDL/include/SDL_keyboard.h
+END
+SDL_mutex.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/5157/trunk/SDL/include/SDL_mutex.h
+END
+SDL_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/5157/trunk/SDL/include/SDL_types.h
+END
+SDL_copying.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/4211/trunk/SDL/include/SDL_copying.h
+END
+SDL_config_iphoneos.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/5312/trunk/SDL/include/SDL_config_iphoneos.h
+END
+SDL_config_pandora.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/4690/trunk/SDL/include/SDL_config_pandora.h
+END
+SDL_config_minimal.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/5157/trunk/SDL/include/SDL_config_minimal.h
+END
+SDL_config_macosx.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/5118/trunk/SDL/include/SDL_config_macosx.h
+END
+SDL_name.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/2609/trunk/SDL/include/SDL_name.h
+END
+SDL.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/5157/trunk/SDL/include/SDL.h
+END
+SDL_loadso.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/5157/trunk/SDL/include/SDL_loadso.h
+END
+SDL_keysym.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/5157/trunk/SDL/include/SDL_keysym.h
+END
+SDL_quit.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/5157/trunk/SDL/include/SDL_quit.h
+END
+SDL_syswm.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/5157/trunk/SDL/include/SDL_syswm.h
+END
+SDL_platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/5157/trunk/SDL/include/SDL_platform.h
+END

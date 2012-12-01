@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/4211/trunk/SDL/src/timer/nds
+END
+SDL_systimer.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/4211/trunk/SDL/src/timer/nds/SDL_systimer.c
+END

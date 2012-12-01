@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/2609/trunk/SDL/src/video/Xext/Xv
+END
+Xvlibint.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/2609/trunk/SDL/src/video/Xext/Xv/Xvlibint.h
+END
+Xv.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/2609/trunk/SDL/src/video/Xext/Xv/Xv.c
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/include/freetype/internal/services
+END
+svpostnm.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/include/freetype/internal/services/svpostnm.h
+END
+svgxval.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/include/freetype/internal/services/svgxval.h
+END
+svtteng.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/include/freetype/internal/services/svtteng.h
+END
+svpscmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/include/freetype/internal/services/svpscmap.h
+END
+svotval.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/include/freetype/internal/services/svotval.h
+END
+svxf86nm.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/include/freetype/internal/services/svxf86nm.h
+END
+svpfr.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/include/freetype/internal/services/svpfr.h
+END
+svttcmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/include/freetype/internal/services/svttcmap.h
+END
+svbdf.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/include/freetype/internal/services/svbdf.h
+END
+svpsinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/include/freetype/internal/services/svpsinfo.h
+END
+svcid.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/include/freetype/internal/services/svcid.h
+END
+svkern.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/include/freetype/internal/services/svkern.h
+END
+svwinfnt.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/include/freetype/internal/services/svwinfnt.h
+END
+svgldict.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/include/freetype/internal/services/svgldict.h
+END
+svttglyf.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/include/freetype/internal/services/svttglyf.h
+END
+svmm.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/include/freetype/internal/services/svmm.h
+END
+svsfnt.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/include/freetype/internal/services/svsfnt.h
+END

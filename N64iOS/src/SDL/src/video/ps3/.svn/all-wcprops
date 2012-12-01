@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/5348/trunk/SDL/src/video/ps3
+END
+SDL_ps3render_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/4704/trunk/SDL/src/video/ps3/SDL_ps3render_c.h
+END
+SDL_ps3video.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/5348/trunk/SDL/src/video/ps3/SDL_ps3video.c
+END
+SDL_ps3modes.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/5326/trunk/SDL/src/video/ps3/SDL_ps3modes.c
+END
+SDL_ps3spe.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/4704/trunk/SDL/src/video/ps3/SDL_ps3spe.c
+END
+SDL_ps3events_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/4704/trunk/SDL/src/video/ps3/SDL_ps3events_c.h
+END
+SDL_ps3video.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/4704/trunk/SDL/src/video/ps3/SDL_ps3video.h
+END
+SDL_ps3modes_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/5326/trunk/SDL/src/video/ps3/SDL_ps3modes_c.h
+END
+SDL_ps3spe_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/4704/trunk/SDL/src/video/ps3/SDL_ps3spe_c.h
+END
+SDL_ps3render.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/4704/trunk/SDL/src/video/ps3/SDL_ps3render.c
+END
+SDL_ps3events.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/4704/trunk/SDL/src/video/ps3/SDL_ps3events.c
+END

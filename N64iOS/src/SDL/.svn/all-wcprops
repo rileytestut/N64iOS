@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 24
+/!svn/ver/5382/trunk/SDL
+END
+SDL.spec.in
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/3004/trunk/SDL/SDL.spec.in
+END
+README.iphoneos
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/4735/trunk/SDL/README.iphoneos
+END
+Borland.zip
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/2609/trunk/SDL/Borland.zip
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/5236/trunk/SDL/Makefile.in
+END
+README.BeOS
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/2609/trunk/SDL/README.BeOS
+END
+Makefile.wiz
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/5261/trunk/SDL/Makefile.wiz
+END
+README.Watcom
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/2609/trunk/SDL/README.Watcom
+END
+README.MacOSX
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/2609/trunk/SDL/README.MacOSX
+END
+NOTES
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/!svn/ver/3424/trunk/SDL/NOTES
+END
+sdl.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/!svn/ver/3512/trunk/SDL/sdl.pc.in
+END
+CREDITS
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/!svn/ver/4752/trunk/SDL/CREDITS
+END
+.indent.pro
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/2609/trunk/SDL/.indent.pro
+END
+BUGS
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/!svn/ver/2979/trunk/SDL/BUGS
+END
+Makefile.pandora
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/4628/trunk/SDL/Makefile.pandora
+END
+sdl.m4
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/!svn/ver/5052/trunk/SDL/sdl.m4
+END
+README.WinCE
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/2609/trunk/SDL/README.WinCE
+END
+README.PS3
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/4704/trunk/SDL/README.PS3
+END
+Makefile.minimal
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/4538/trunk/SDL/Makefile.minimal
+END
+README.QNX
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/4691/trunk/SDL/README.QNX
+END
+README.SVN
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/3675/trunk/SDL/README.SVN
+END
+UNDER_CONSTRUCTION.txt
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/2609/trunk/SDL/UNDER_CONSTRUCTION.txt
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/!svn/ver/2609/trunk/SDL/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/!svn/ver/2609/trunk/SDL/COPYING
+END
+VisualC.html
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/4170/trunk/SDL/VisualC.html
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/5050/trunk/SDL/autogen.sh
+END
+README.DirectFB
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/4380/trunk/SDL/README.DirectFB
+END
+README.Porting
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/2666/trunk/SDL/README.Porting
+END
+README.pandora
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/4523/trunk/SDL/README.pandora
+END
+Makefile.ds
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/4538/trunk/SDL/Makefile.ds
+END
+Borland.html
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/2609/trunk/SDL/Borland.html
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/5224/trunk/SDL/configure.in
+END
+sdl-config.in
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/3004/trunk/SDL/sdl-config.in
+END
+README-SDL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/2609/trunk/SDL/README-SDL.txt
+END
+Watcom-Win32.zip
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/2609/trunk/SDL/Watcom-Win32.zip
+END
+docs.html
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/!svn/ver/4968/trunk/SDL/docs.html
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/!svn/ver/4752/trunk/SDL/README
+END
+README.RISCOS
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/4691/trunk/SDL/README.RISCOS
+END
+WhatsNew
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/!svn/ver/2609/trunk/SDL/WhatsNew
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/!svn/ver/5377/trunk/SDL/TODO
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/5307/trunk/SDL/test/automated/rwops
+END
+rwops.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/4706/trunk/SDL/test/automated/rwops/rwops.h
+END
+read
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/4706/trunk/SDL/test/automated/rwops/read
+END
+rwops.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/5307/trunk/SDL/test/automated/rwops/rwops.c
+END

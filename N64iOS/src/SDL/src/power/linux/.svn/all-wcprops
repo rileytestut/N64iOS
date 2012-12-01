@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/4589/trunk/SDL/src/power/linux
+END
+SDL_syspower.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/4589/trunk/SDL/src/power/linux/SDL_syspower.c
+END

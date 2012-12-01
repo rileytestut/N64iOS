@@ -1,0 +1,142 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		BF0D18341660D6820050AD3C /* audio.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = audio.c; sourceTree = "<group>"; };
+		BF0D18351660D6820050AD3C /* Audio_1.1.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Audio_1.1.h; sourceTree = "<group>"; };
+		BF0D18361660D6820050AD3C /* dummyaudio.so */ = {isa = PBXFileReference; lastKnownFileType = file; path = dummyaudio.so; sourceTree = "<group>"; };
+		BF0D18371660D6820050AD3C /* Makefile */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		BF0D182C1660D6820050AD3C = {
+			isa = PBXGroup;
+			children = (
+				BF0D18341660D6820050AD3C /* audio.c */,
+				BF0D18351660D6820050AD3C /* Audio_1.1.h */,
+				BF0D18361660D6820050AD3C /* dummyaudio.so */,
+				BF0D18371660D6820050AD3C /* Makefile */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXLegacyTarget section */
+		BF0D18331660D6820050AD3C /* dummy_audio */ = {
+			isa = PBXLegacyTarget;
+			buildArgumentsString = "$(ACTION)";
+			buildConfigurationList = BF0D18381660D6820050AD3C /* Build configuration list for PBXLegacyTarget "dummy_audio" */;
+			buildPhases = (
+			);
+			buildToolPath = /usr/bin/make;
+			buildWorkingDirectory = "/Users/Riley/Developer/Open Source/My Projects/N64iOS/N64iOS/src/Mupen64Plus/dummy_audio";
+			dependencies = (
+			);
+			name = dummy_audio;
+			passBuildSettingsInEnvironment = 1;
+			productName = dummy_audio;
+		};
+/* End PBXLegacyTarget section */
+
+/* Begin PBXProject section */
+		BF0D182E1660D6820050AD3C /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = BF0D18311660D6820050AD3C /* Build configuration list for PBXProject "dummy_audio" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = BF0D182C1660D6820050AD3C;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				BF0D18331660D6820050AD3C /* dummy_audio */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		BF0D182F1660D6820050AD3C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx10.6;
+			};
+			name = Debug;
+		};
+		BF0D18301660D6820050AD3C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				SDKROOT = macosx10.6;
+			};
+			name = Release;
+		};
+		BF0D18391660D6820050AD3C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				DEBUGGING_SYMBOLS = YES;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = dummy_audio;
+				SDKROOT = iphoneos6.0;
+			};
+			name = Debug;
+		};
+		BF0D183A1660D6820050AD3C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = dummy_audio;
+				SDKROOT = iphoneos6.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		BF0D18311660D6820050AD3C /* Build configuration list for PBXProject "dummy_audio" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BF0D182F1660D6820050AD3C /* Debug */,
+				BF0D18301660D6820050AD3C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BF0D18381660D6820050AD3C /* Build configuration list for PBXLegacyTarget "dummy_audio" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BF0D18391660D6820050AD3C /* Debug */,
+				BF0D183A1660D6820050AD3C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = BF0D182E1660D6820050AD3C /* Project object */;
+}

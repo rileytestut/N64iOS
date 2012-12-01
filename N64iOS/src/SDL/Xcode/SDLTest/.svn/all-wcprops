@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/4937/trunk/SDL/Xcode/SDLTest
+END
+Info-testpower.plist
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/4900/trunk/SDL/Xcode/SDLTest/Info-testpower.plist
+END
+Info-testwm__Upgraded_.plist
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/4900/trunk/SDL/Xcode/SDLTest/Info-testwm__Upgraded_.plist
+END
+Info-testversion__Upgraded_.plist
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/4900/trunk/SDL/Xcode/SDLTest/Info-testversion__Upgraded_.plist
+END
+Info-threadwin__Upgraded_.plist
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/4900/trunk/SDL/Xcode/SDLTest/Info-threadwin__Upgraded_.plist
+END
+Info-testoverlay2.plist
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/4900/trunk/SDL/Xcode/SDLTest/Info-testoverlay2.plist
+END
+Info-testwm2.plist
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/4900/trunk/SDL/Xcode/SDLTest/Info-testwm2.plist
+END
+Info-testwin__Upgraded_.plist
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/4900/trunk/SDL/Xcode/SDLTest/Info-testwin__Upgraded_.plist
+END
+Info-testhaptic.plist
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/4900/trunk/SDL/Xcode/SDLTest/Info-testhaptic.plist
+END
+Info-testresample.plist
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/4900/trunk/SDL/Xcode/SDLTest/Info-testresample.plist
+END
+Info-testgl__Upgraded_.plist
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/4900/trunk/SDL/Xcode/SDLTest/Info-testgl__Upgraded_.plist
+END
+Info-testatomic.plist
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/4900/trunk/SDL/Xcode/SDLTest/Info-testatomic.plist
+END
+Info-testcursor.plist
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/4900/trunk/SDL/Xcode/SDLTest/Info-testcursor.plist
+END
+Info-testiconv.plist
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/4900/trunk/SDL/Xcode/SDLTest/Info-testiconv.plist
+END
+Info-testdraw2.plist
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/4900/trunk/SDL/Xcode/SDLTest/Info-testdraw2.plist
+END
+Info-testfile.plist
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/4900/trunk/SDL/Xcode/SDLTest/Info-testfile.plist
+END
+Info-testsprite__Upgraded_.plist
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/4900/trunk/SDL/Xcode/SDLTest/Info-testsprite__Upgraded_.plist
+END
+Info-testthread__Upgraded_.plist
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/4900/trunk/SDL/Xcode/SDLTest/Info-testthread__Upgraded_.plist
+END
+Info-checkkeys__Upgraded_.plist
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/4900/trunk/SDL/Xcode/SDLTest/Info-checkkeys__Upgraded_.plist
+END
+Info-testgl2.plist
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/4900/trunk/SDL/Xcode/SDLTest/Info-testgl2.plist
+END
+Info-testmousetablet.plist
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/4900/trunk/SDL/Xcode/SDLTest/Info-testmousetablet.plist
+END
+Info-testsprite2.plist
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/4900/trunk/SDL/Xcode/SDLTest/Info-testsprite2.plist
+END
+Info-testtimer__Upgraded_.plist
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/4900/trunk/SDL/Xcode/SDLTest/Info-testtimer__Upgraded_.plist
+END
+Info-graywin__Upgraded_.plist
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/4900/trunk/SDL/Xcode/SDLTest/Info-graywin__Upgraded_.plist
+END
+Info-testintersections.plist
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/4900/trunk/SDL/Xcode/SDLTest/Info-testintersections.plist
+END
+Info-testsem__Upgraded_.plist
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/4900/trunk/SDL/Xcode/SDLTest/Info-testsem__Upgraded_.plist
+END
+Info-testalpha__Upgraded_.plist
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/4900/trunk/SDL/Xcode/SDLTest/Info-testalpha__Upgraded_.plist
+END
+Info-testlock__Upgraded_.plist
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/4900/trunk/SDL/Xcode/SDLTest/Info-testlock__Upgraded_.plist
+END
+Info-testerror__Upgraded_.plist
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/4900/trunk/SDL/Xcode/SDLTest/Info-testerror__Upgraded_.plist
+END
+Info-torturethread__Upgraded_.plist
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/4900/trunk/SDL/Xcode/SDLTest/Info-torturethread__Upgraded_.plist
+END
+Info-loopwave__Upgraded_.plist
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/4900/trunk/SDL/Xcode/SDLTest/Info-loopwave__Upgraded_.plist
+END
+Info-testvidinfo__Upgraded_.plist
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/4900/trunk/SDL/Xcode/SDLTest/Info-testvidinfo__Upgraded_.plist
+END
+Info-testpalette__Upgraded_.plist
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/4900/trunk/SDL/Xcode/SDLTest/Info-testpalette__Upgraded_.plist
+END
+Info-testjoystick__Upgraded_.plist
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/4900/trunk/SDL/Xcode/SDLTest/Info-testjoystick__Upgraded_.plist
+END
+Info-testime.plist
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/4900/trunk/SDL/Xcode/SDLTest/Info-testime.plist
+END
+Info-testblitspeed.plist
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/4900/trunk/SDL/Xcode/SDLTest/Info-testblitspeed.plist
+END
+sdlcommon_prefix.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/4900/trunk/SDL/Xcode/SDLTest/sdlcommon_prefix.h
+END
+Info-testmultiaudio.plist
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/4900/trunk/SDL/Xcode/SDLTest/Info-testmultiaudio.plist
+END
+Info-testaudioinfo.plist
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/4900/trunk/SDL/Xcode/SDLTest/Info-testaudioinfo.plist
+END
+Info-testdyngl.plist
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/4900/trunk/SDL/Xcode/SDLTest/Info-testdyngl.plist
+END
+Info-testtypes__Upgraded_.plist
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/4900/trunk/SDL/Xcode/SDLTest/Info-testtypes__Upgraded_.plist
+END
+Info-test.plist
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/4900/trunk/SDL/Xcode/SDLTest/Info-test.plist
+END
+Info-testnativex11.plist
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/4900/trunk/SDL/Xcode/SDLTest/Info-testnativex11.plist
+END
+Info-testloadso.plist
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/4900/trunk/SDL/Xcode/SDLTest/Info-testloadso.plist
+END
+Info-testkeys__Upgraded_.plist
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/4900/trunk/SDL/Xcode/SDLTest/Info-testkeys__Upgraded_.plist
+END
+Info-testplatform.plist
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/4900/trunk/SDL/Xcode/SDLTest/Info-testplatform.plist
+END
+Info-testbitmap__Upgraded_.plist
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/4900/trunk/SDL/Xcode/SDLTest/Info-testbitmap__Upgraded_.plist
+END
+Info-testoverlay__Upgraded_.plist
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/4900/trunk/SDL/Xcode/SDLTest/Info-testoverlay__Upgraded_.plist
+END
+Info-testnativecocoa.plist
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/4900/trunk/SDL/Xcode/SDLTest/Info-testnativecocoa.plist
+END
+Info-testgamma__Upgraded_.plist
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/4900/trunk/SDL/Xcode/SDLTest/Info-testgamma__Upgraded_.plist
+END

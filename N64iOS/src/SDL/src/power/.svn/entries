@@ -1,0 +1,77 @@
+10
+
+dir
+5382
+http://svn.libsdl.org/trunk/SDL/src/power
+http://svn.libsdl.org
+
+
+
+2009-09-19T07:21:22.609852Z
+4730
+slouken
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c70aab31-4412-0410-b14c-859654838e24
+
+linux
+dir
+
+SDL_power.c
+file
+
+
+
+
+2009-12-12T06:47:04.000000Z
+e1c0b9c8fbf9af3d8320494c23ca50f8
+2009-09-19T07:21:22.609852Z
+4730
+slouken
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3323
+
+nds
+dir
+
+beos
+dir
+
+macosx
+dir
+
+windows
+dir
+

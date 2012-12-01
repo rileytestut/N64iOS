@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/!svn/ver/4700/trunk/SDL/src/file
+END
+SDL_rwops.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/4700/trunk/SDL/src/file/SDL_rwops.c
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/5370/trunk/SDL/test/automated
+END
+testsdl.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/5370/trunk/SDL/test/automated/testsdl.c
+END
+SDL_at.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/5307/trunk/SDL/test/automated/SDL_at.c
+END
+SDL_at.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/5307/trunk/SDL/test/automated/SDL_at.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/5370/trunk/SDL/test/automated/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/4706/trunk/SDL/test/automated/README
+END

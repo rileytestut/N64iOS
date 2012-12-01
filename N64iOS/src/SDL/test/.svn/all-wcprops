@@ -1,0 +1,419 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/!svn/ver/5379/trunk/SDL/test
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/5178/trunk/SDL/test/Makefile.in
+END
+testmmousetablet.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/4810/trunk/SDL/test/testmmousetablet.c
+END
+testoverlay2.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/3438/trunk/SDL/test/testoverlay2.c
+END
+testdyngles.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/5168/trunk/SDL/test/testdyngles.c
+END
+testhaptic.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/4935/trunk/SDL/test/testhaptic.c
+END
+testresample.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/4399/trunk/SDL/test/testresample.c
+END
+testime.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/5303/trunk/SDL/test/testime.c
+END
+testblitspeed.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/4067/trunk/SDL/test/testblitspeed.c
+END
+testbitmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/4464/trunk/SDL/test/testbitmap.c
+END
+testatomic.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/4935/trunk/SDL/test/testatomic.c
+END
+testdyngl.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/4877/trunk/SDL/test/testdyngl.c
+END
+testcursor.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/4497/trunk/SDL/test/testcursor.c
+END
+testaudioinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/4935/trunk/SDL/test/testaudioinfo.c
+END
+sample.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/2609/trunk/SDL/test/sample.bmp
+END
+.gdbinit
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/2609/trunk/SDL/test/.gdbinit
+END
+picture.xbm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/2609/trunk/SDL/test/picture.xbm
+END
+testoverlay.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/3438/trunk/SDL/test/testoverlay.c
+END
+testsem.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/2609/trunk/SDL/test/testsem.c
+END
+threadwin.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/3061/trunk/SDL/test/threadwin.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/2609/trunk/SDL/test/COPYING
+END
+testpower.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/4557/trunk/SDL/test/testpower.c
+END
+testvidinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/5356/trunk/SDL/test/testvidinfo.c
+END
+testgl.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/4027/trunk/SDL/test/testgl.c
+END
+testnativecocoa.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/4419/trunk/SDL/test/testnativecocoa.m
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/4798/trunk/SDL/test/configure.in
+END
+testwm2.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/4935/trunk/SDL/test/testwm2.c
+END
+moose.dat
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/2609/trunk/SDL/test/moose.dat
+END
+checkkeys.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/3549/trunk/SDL/test/checkkeys.c
+END
+testiconv.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/3136/trunk/SDL/test/testiconv.c
+END
+testgamma.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/2609/trunk/SDL/test/testgamma.c
+END
+testplatform.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/4853/trunk/SDL/test/testplatform.c
+END
+testgl2.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/5179/trunk/SDL/test/testgl2.c
+END
+testalpha.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/4173/trunk/SDL/test/testalpha.c
+END
+testnative.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/5364/trunk/SDL/test/testnative.c
+END
+testlock.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/4125/trunk/SDL/test/testlock.c
+END
+testintersections.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/5364/trunk/SDL/test/testintersections.c
+END
+testnative.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/4423/trunk/SDL/test/testnative.h
+END
+loopwave.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/4988/trunk/SDL/test/loopwave.c
+END
+testspriteminimal.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/5364/trunk/SDL/test/testspriteminimal.c
+END
+testfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/4103/trunk/SDL/test/testfile.c
+END
+graywin.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/2609/trunk/SDL/test/graywin.c
+END
+testnativex11.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/4419/trunk/SDL/test/testnativex11.c
+END
+testtimer.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/2609/trunk/SDL/test/testtimer.c
+END
+testnativew32.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/4437/trunk/SDL/test/testnativew32.c
+END
+testhread.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/4125/trunk/SDL/test/testhread.c
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/2609/trunk/SDL/test/autogen.sh
+END
+testgles.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/5163/trunk/SDL/test/testgles.c
+END
+torturethread.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/2609/trunk/SDL/test/torturethread.c
+END
+sample.wav
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/2609/trunk/SDL/test/sample.wav
+END
+testver.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/4339/trunk/SDL/test/testver.c
+END
+testwin.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/4172/trunk/SDL/test/testwin.c
+END
+testpalette.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/4206/trunk/SDL/test/testpalette.c
+END
+testjoystick.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/4103/trunk/SDL/test/testjoystick.c
+END
+testsprite.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/4935/trunk/SDL/test/testsprite.c
+END
+testkeys.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/3540/trunk/SDL/test/testkeys.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/4436/trunk/SDL/test/README
+END
+testmultiaudio.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/4472/trunk/SDL/test/testmultiaudio.c
+END
+testdraw2.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/5379/trunk/SDL/test/testdraw2.c
+END
+testloadso.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/4935/trunk/SDL/test/testloadso.c
+END
+utf8.txt
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/2609/trunk/SDL/test/utf8.txt
+END
+testwm.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/5378/trunk/SDL/test/testwm.c
+END
+sail.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/2609/trunk/SDL/test/sail.bmp
+END
+icon.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/2609/trunk/SDL/test/icon.bmp
+END
+acinclude.m4
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/2609/trunk/SDL/test/acinclude.m4
+END
+testsprite2.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/5364/trunk/SDL/test/testsprite2.c
+END
+common.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/5340/trunk/SDL/test/common.c
+END
+testerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/2609/trunk/SDL/test/testerror.c
+END
+gcc-fat.sh
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/2609/trunk/SDL/test/gcc-fat.sh
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/5340/trunk/SDL/test/common.h
+END

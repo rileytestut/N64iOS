@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/4055/trunk/SDL/src/video/win32/wactab
+END
+wintabx.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/4055/trunk/SDL/src/video/win32/wactab/wintabx.h
+END
+pktdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/4055/trunk/SDL/src/video/win32/wactab/pktdef.h
+END
+wintab.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/4055/trunk/SDL/src/video/win32/wactab/wintab.h
+END

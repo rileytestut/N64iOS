@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/4238/trunk/SDL/test/nds-test-progs/sprite/source
+END
+testsprite.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/4067/trunk/SDL/test/nds-test-progs/sprite/source/testsprite.c
+END
+common.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/4238/trunk/SDL/test/nds-test-progs/sprite/source/common.c
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/4067/trunk/SDL/test/nds-test-progs/sprite/source/common.h
+END

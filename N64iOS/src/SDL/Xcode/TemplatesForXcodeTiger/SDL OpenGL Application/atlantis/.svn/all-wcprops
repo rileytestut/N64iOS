@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/4900/trunk/SDL/Xcode/TemplatesForXcodeTiger/SDL%20OpenGL%20Application/atlantis
+END
+atlantis.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/4900/trunk/SDL/Xcode/TemplatesForXcodeTiger/SDL%20OpenGL%20Application/atlantis/atlantis.c
+END
+swim.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/4900/trunk/SDL/Xcode/TemplatesForXcodeTiger/SDL%20OpenGL%20Application/atlantis/swim.c
+END
+whale.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/4900/trunk/SDL/Xcode/TemplatesForXcodeTiger/SDL%20OpenGL%20Application/atlantis/whale.c
+END
+atlantis.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/4900/trunk/SDL/Xcode/TemplatesForXcodeTiger/SDL%20OpenGL%20Application/atlantis/atlantis.h
+END
+shark.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/4900/trunk/SDL/Xcode/TemplatesForXcodeTiger/SDL%20OpenGL%20Application/atlantis/shark.c
+END
+dolphin.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/4900/trunk/SDL/Xcode/TemplatesForXcodeTiger/SDL%20OpenGL%20Application/atlantis/dolphin.c
+END

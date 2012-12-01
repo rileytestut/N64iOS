@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/5358/trunk/SDL/src/video/cocoa
+END
+SDL_cocoaevents.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/4211/trunk/SDL/src/video/cocoa/SDL_cocoaevents.h
+END
+SDL_cocoaopengl.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/4419/trunk/SDL/src/video/cocoa/SDL_cocoaopengl.h
+END
+SDL_cocoakeyboard.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/5353/trunk/SDL/src/video/cocoa/SDL_cocoakeyboard.m
+END
+SDL_cocoavideo.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/4741/trunk/SDL/src/video/cocoa/SDL_cocoavideo.h
+END
+SDL_cocoamodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/5356/trunk/SDL/src/video/cocoa/SDL_cocoamodes.h
+END
+SDL_cocoawindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/5332/trunk/SDL/src/video/cocoa/SDL_cocoawindow.h
+END
+SDL_cocoamouse.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/5345/trunk/SDL/src/video/cocoa/SDL_cocoamouse.h
+END
+SDL_cocoaevents.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/5345/trunk/SDL/src/video/cocoa/SDL_cocoaevents.m
+END
+SDL_cocoaopengl.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/4419/trunk/SDL/src/video/cocoa/SDL_cocoaopengl.m
+END
+SDL_cocoavideo.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/5356/trunk/SDL/src/video/cocoa/SDL_cocoavideo.m
+END
+SDL_cocoamodes.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/5356/trunk/SDL/src/video/cocoa/SDL_cocoamodes.m
+END
+SDL_cocoawindow.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/5358/trunk/SDL/src/video/cocoa/SDL_cocoawindow.m
+END
+SDL_cocoamouse.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/5356/trunk/SDL/src/video/cocoa/SDL_cocoamouse.m
+END
+SDL_cocoakeyboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/4741/trunk/SDL/src/video/cocoa/SDL_cocoakeyboard.h
+END

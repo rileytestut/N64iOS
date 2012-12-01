@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/5326/trunk/SDL/src/video/qnxgf
+END
+SDL_gf_opengles.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/4514/trunk/SDL/src/video/qnxgf/SDL_gf_opengles.h
+END
+SDL_hiddi_mouse.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/4514/trunk/SDL/src/video/qnxgf/SDL_hiddi_mouse.h
+END
+SDL_gf_input.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/4514/trunk/SDL/src/video/qnxgf/SDL_gf_input.h
+END
+SDL_gf_render.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/4514/trunk/SDL/src/video/qnxgf/SDL_gf_render.h
+END
+SDL_qnxgf.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/5326/trunk/SDL/src/video/qnxgf/SDL_qnxgf.c
+END
+SDL_gf_pixelfmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/4555/trunk/SDL/src/video/qnxgf/SDL_gf_pixelfmt.c
+END
+SDL_hiddi_joystick.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/4502/trunk/SDL/src/video/qnxgf/SDL_hiddi_joystick.h
+END
+SDL_hiddi_keyboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/4514/trunk/SDL/src/video/qnxgf/SDL_hiddi_keyboard.h
+END
+SDL_gf_opengles.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/4514/trunk/SDL/src/video/qnxgf/SDL_gf_opengles.c
+END
+SDL_qnxgf.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/4514/trunk/SDL/src/video/qnxgf/SDL_qnxgf.h
+END
+SDL_gf_pixelfmt.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/4514/trunk/SDL/src/video/qnxgf/SDL_gf_pixelfmt.h
+END
+SDL_gf_input.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/5326/trunk/SDL/src/video/qnxgf/SDL_gf_input.c
+END
+SDL_gf_render.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/5326/trunk/SDL/src/video/qnxgf/SDL_gf_render.c
+END

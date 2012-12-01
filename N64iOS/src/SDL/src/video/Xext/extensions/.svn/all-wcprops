@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/4382/trunk/SDL/src/video/Xext/extensions
+END
+StdCmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/3242/trunk/SDL/src/video/Xext/extensions/StdCmap.h
+END
+Xv.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/2609/trunk/SDL/src/video/Xext/extensions/Xv.h
+END
+extutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/2609/trunk/SDL/src/video/Xext/extensions/extutil.h
+END
+xf86dgastr.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/2609/trunk/SDL/src/video/Xext/extensions/xf86dgastr.h
+END
+Xinerama.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/2609/trunk/SDL/src/video/Xext/extensions/Xinerama.h
+END
+xf86dga.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/2609/trunk/SDL/src/video/Xext/extensions/xf86dga.h
+END
+panoramiXext.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/2609/trunk/SDL/src/video/Xext/extensions/panoramiXext.h
+END
+xf86dga1str.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/2609/trunk/SDL/src/video/Xext/extensions/xf86dga1str.h
+END
+Xvproto.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/2609/trunk/SDL/src/video/Xext/extensions/Xvproto.h
+END
+panoramiXproto.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/2609/trunk/SDL/src/video/Xext/extensions/panoramiXproto.h
+END
+Xvlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/2609/trunk/SDL/src/video/Xext/extensions/Xvlib.h
+END
+xf86vmode.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/2609/trunk/SDL/src/video/Xext/extensions/xf86vmode.h
+END
+xf86vmstr.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/2609/trunk/SDL/src/video/Xext/extensions/xf86vmstr.h
+END
+xf86dga1.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/2609/trunk/SDL/src/video/Xext/extensions/xf86dga1.h
+END
+Xext.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/2609/trunk/SDL/src/video/Xext/extensions/Xext.h
+END

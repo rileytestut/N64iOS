@@ -1,0 +1,1493 @@
+<ui version="4.0" >
+ <class>Glide64ConfigDialog</class>
+ <widget class="QDialog" name="Glide64ConfigDialog" >
+  <property name="geometry" >
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>638</width>
+    <height>743</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>Glide64 Setup</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout" >
+   <item>
+    <widget class="QTabWidget" name="tabWidget" >
+     <property name="currentIndex" >
+      <number>0</number>
+     </property>
+     <widget class="QWidget" name="tab" >
+      <attribute name="title" >
+       <string>General</string>
+      </attribute>
+      <layout class="QGridLayout" name="gridLayout" >
+       <item row="0" column="0" colspan="2" >
+        <widget class="QLabel" name="label_17" >
+         <property name="text" >
+          <string>&lt;h4>Compatibility&lt;/h4></string>
+         </property>
+        </widget>
+       </item>
+       <item row="1" column="0" >
+        <spacer name="horizontalSpacer" >
+         <property name="orientation" >
+          <enum>Qt::Horizontal</enum>
+         </property>
+         <property name="sizeType" >
+          <enum>QSizePolicy::Fixed</enum>
+         </property>
+         <property name="sizeHint" stdset="0" >
+          <size>
+           <width>40</width>
+           <height>20</height>
+          </size>
+         </property>
+        </spacer>
+       </item>
+       <item row="1" column="1" >
+        <widget class="QLabel" name="autodetectMicrocodeLabel" >
+         <property name="text" >
+          <string>&amp;Autodetect Microcode:</string>
+         </property>
+         <property name="alignment" >
+          <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+         </property>
+         <property name="buddy" >
+          <cstring>autodetectMicrocodeCheck</cstring>
+         </property>
+        </widget>
+       </item>
+       <item row="1" column="2" >
+        <widget class="QCheckBox" name="autodetectMicrocodeCheck" >
+         <property name="text" >
+          <string/>
+         </property>
+        </widget>
+       </item>
+       <item row="2" column="1" >
+        <widget class="QLabel" name="label_19" >
+         <property name="text" >
+          <string>&amp;Force Microcode:</string>
+         </property>
+         <property name="alignment" >
+          <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+         </property>
+         <property name="buddy" >
+          <cstring>forceMicrocodeCombo</cstring>
+         </property>
+        </widget>
+       </item>
+       <item row="2" column="2" >
+        <layout class="QHBoxLayout" name="horizontalLayout_7" >
+         <property name="spacing" >
+          <number>0</number>
+         </property>
+         <item>
+          <widget class="QComboBox" name="forceMicrocodeCombo" >
+           <property name="sizePolicy" >
+            <sizepolicy vsizetype="Fixed" hsizetype="MinimumExpanding" >
+             <horstretch>0</horstretch>
+             <verstretch>0</verstretch>
+            </sizepolicy>
+           </property>
+           <item>
+            <property name="text" >
+             <string>0: RSP SW 2.0X (ex. Mario)</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>1: F3DEX 1.XX (ex. Star Fox)</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>2: F3DEX 2.XX (ex. Zelda OOT)</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>3: RSP SW 2.0D EXT (ex. Waverace)</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>4: RSP SW 2.0D EXT (ex. Shadows of the Empire)</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>5: RSP SW 2.0 (ex. Diddy Kong Racing)</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>6: S2DEX 1.XX (ex. Yoshi's Story)</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>7: RSP SW PD Perfect Dark</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>8: F3DEXBG 2.08 Conker's Bad Fur Day</string>
+            </property>
+           </item>
+          </widget>
+         </item>
+         <item>
+          <spacer name="horizontalSpacer_8" >
+           <property name="orientation" >
+            <enum>Qt::Horizontal</enum>
+           </property>
+           <property name="sizeHint" stdset="0" >
+            <size>
+             <width>0</width>
+             <height>20</height>
+            </size>
+           </property>
+          </spacer>
+         </item>
+        </layout>
+       </item>
+       <item row="3" column="0" colspan="2" >
+        <widget class="QLabel" name="label" >
+         <property name="text" >
+          <string>&lt;h4>Rendering&lt;/h4></string>
+         </property>
+        </widget>
+       </item>
+       <item row="4" column="1" >
+        <widget class="QLabel" name="label_2" >
+         <property name="text" >
+          <string>&amp;Window Resolution:</string>
+         </property>
+         <property name="alignment" >
+          <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+         </property>
+         <property name="buddy" >
+          <cstring>windowResolutionCombo</cstring>
+         </property>
+        </widget>
+       </item>
+       <item row="4" column="2" >
+        <layout class="QHBoxLayout" name="horizontalLayout_6" >
+         <property name="spacing" >
+          <number>0</number>
+         </property>
+         <item>
+          <widget class="QComboBox" name="windowResolutionCombo" >
+           <item>
+            <property name="text" >
+             <string>320 x 200</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>320 x 240</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>400 x 256</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>512 x 384</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>640 x 200</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>640 x 350</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>640 x 400</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>640 x 480</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>800 x 600</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>960 x 720</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>856 x 480</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>512 x 256</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>1024 x 768</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>1280 x 1024</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>1600 x 1200</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>400 x 300</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>1152 x 864</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>1280 x 960</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>1600 x 1024</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>1792 x 1344</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>1856 x 1392</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>1920 x 1440</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>2048 x 1536</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>2048 x 2048</string>
+            </property>
+           </item>
+          </widget>
+         </item>
+         <item>
+          <spacer name="horizontalSpacer_2" >
+           <property name="orientation" >
+            <enum>Qt::Horizontal</enum>
+           </property>
+           <property name="sizeHint" stdset="0" >
+            <size>
+             <width>0</width>
+             <height>20</height>
+            </size>
+           </property>
+          </spacer>
+         </item>
+        </layout>
+       </item>
+       <item row="5" column="1" >
+        <widget class="QLabel" name="label_3" >
+         <property name="text" >
+          <string>&amp;Fullscreen Resolution:</string>
+         </property>
+         <property name="alignment" >
+          <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+         </property>
+         <property name="buddy" >
+          <cstring>fullscreenResolutionCombo</cstring>
+         </property>
+        </widget>
+       </item>
+       <item row="5" column="2" >
+        <layout class="QHBoxLayout" name="horizontalLayout_5" >
+         <property name="spacing" >
+          <number>0</number>
+         </property>
+         <item>
+          <widget class="QComboBox" name="fullscreenResolutionCombo" >
+           <item>
+            <property name="text" >
+             <string>320 x 200</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>320 x 240</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>400 x 256</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>512 x 384</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>640 x 200</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>640 x 350</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>640 x 400</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>640 x 480</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>800 x 600</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>960 x 720</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>856 x 480</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>512 x 256</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>1024 x 768</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>1280 x 1024</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>1600 x 1200</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>400 x 300</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>1152 x 864</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>1280 x 960</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>1600 x 1024</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>1792 x 1344</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>1856 x 1392</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>1920 x 1440</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>2048 x 1536</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>2048 x 2048</string>
+            </property>
+           </item>
+          </widget>
+         </item>
+         <item>
+          <spacer name="horizontalSpacer_3" >
+           <property name="orientation" >
+            <enum>Qt::Horizontal</enum>
+           </property>
+           <property name="sizeHint" stdset="0" >
+            <size>
+             <width>0</width>
+             <height>20</height>
+            </size>
+           </property>
+          </spacer>
+         </item>
+        </layout>
+       </item>
+       <item row="6" column="1" >
+        <widget class="QLabel" name="label_4" >
+         <property name="text" >
+          <string>&amp;Texture Filter:</string>
+         </property>
+         <property name="alignment" >
+          <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+         </property>
+         <property name="buddy" >
+          <cstring>textureFilterCombo</cstring>
+         </property>
+        </widget>
+       </item>
+       <item row="6" column="2" >
+        <layout class="QHBoxLayout" name="horizontalLayout_4" >
+         <property name="spacing" >
+          <number>0</number>
+         </property>
+         <item>
+          <widget class="QComboBox" name="textureFilterCombo" >
+           <item>
+            <property name="text" >
+             <string>None</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>Blur Edges</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>Super 2x Sai</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>Hq2x</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>Hq4x</string>
+            </property>
+           </item>
+          </widget>
+         </item>
+         <item>
+          <spacer name="horizontalSpacer_4" >
+           <property name="orientation" >
+            <enum>Qt::Horizontal</enum>
+           </property>
+           <property name="sizeHint" stdset="0" >
+            <size>
+             <width>0</width>
+             <height>20</height>
+            </size>
+           </property>
+          </spacer>
+         </item>
+        </layout>
+       </item>
+       <item row="7" column="1" >
+        <widget class="QLabel" name="label_5" >
+         <property name="enabled" >
+          <bool>true</bool>
+         </property>
+         <property name="text" >
+          <string>Filtering &amp;Mode:</string>
+         </property>
+         <property name="alignment" >
+          <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+         </property>
+         <property name="buddy" >
+          <cstring>filteringModeCombo</cstring>
+         </property>
+        </widget>
+       </item>
+       <item row="7" column="2" >
+        <layout class="QHBoxLayout" name="horizontalLayout_3" >
+         <property name="spacing" >
+          <number>0</number>
+         </property>
+         <item>
+          <widget class="QComboBox" name="filteringModeCombo" >
+           <property name="enabled" >
+            <bool>true</bool>
+           </property>
+           <item>
+            <property name="text" >
+             <string>Automatic</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>Force Bilinear</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>Force Point-Sampled</string>
+            </property>
+           </item>
+          </widget>
+         </item>
+         <item>
+          <spacer name="horizontalSpacer_5" >
+           <property name="orientation" >
+            <enum>Qt::Horizontal</enum>
+           </property>
+           <property name="sizeHint" stdset="0" >
+            <size>
+             <width>0</width>
+             <height>20</height>
+            </size>
+           </property>
+          </spacer>
+         </item>
+        </layout>
+       </item>
+       <item row="8" column="1" >
+        <widget class="QLabel" name="label_6" >
+         <property name="enabled" >
+          <bool>true</bool>
+         </property>
+         <property name="text" >
+          <string>&amp;LOD Calculation:</string>
+         </property>
+         <property name="alignment" >
+          <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+         </property>
+         <property name="buddy" >
+          <cstring>lodCalculationCombo</cstring>
+         </property>
+        </widget>
+       </item>
+       <item row="8" column="2" >
+        <layout class="QHBoxLayout" name="horizontalLayout_2" >
+         <property name="spacing" >
+          <number>0</number>
+         </property>
+         <item>
+          <widget class="QComboBox" name="lodCalculationCombo" >
+           <property name="enabled" >
+            <bool>true</bool>
+           </property>
+           <item>
+            <property name="text" >
+             <string>Off</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>Fast</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>Precise</string>
+            </property>
+           </item>
+          </widget>
+         </item>
+         <item>
+          <spacer name="horizontalSpacer_6" >
+           <property name="orientation" >
+            <enum>Qt::Horizontal</enum>
+           </property>
+           <property name="sizeHint" stdset="0" >
+            <size>
+             <width>0</width>
+             <height>20</height>
+            </size>
+           </property>
+          </spacer>
+         </item>
+        </layout>
+       </item>
+       <item row="9" column="1" >
+        <widget class="QLabel" name="label_7" >
+         <property name="enabled" >
+          <bool>true</bool>
+         </property>
+         <property name="text" >
+          <string>F&amp;og Enabled:</string>
+         </property>
+         <property name="alignment" >
+          <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+         </property>
+         <property name="buddy" >
+          <cstring>fogEnabledCheck</cstring>
+         </property>
+        </widget>
+       </item>
+       <item row="9" column="2" >
+        <widget class="QCheckBox" name="fogEnabledCheck" >
+         <property name="enabled" >
+          <bool>true</bool>
+         </property>
+         <property name="text" >
+          <string/>
+         </property>
+        </widget>
+       </item>
+       <item row="10" column="1" >
+        <widget class="QLabel" name="label_15" >
+         <property name="enabled" >
+          <bool>true</bool>
+         </property>
+         <property name="text" >
+          <string>&amp;Buffer clear on every frame:</string>
+         </property>
+         <property name="alignment" >
+          <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+         </property>
+         <property name="buddy" >
+          <cstring>bufferClearOnEveryFrameCheck</cstring>
+         </property>
+        </widget>
+       </item>
+       <item row="10" column="2" >
+        <widget class="QCheckBox" name="bufferClearOnEveryFrameCheck" >
+         <property name="enabled" >
+          <bool>true</bool>
+         </property>
+         <property name="text" >
+          <string/>
+         </property>
+        </widget>
+       </item>
+       <item row="11" column="1" >
+        <widget class="QLabel" name="label_16" >
+         <property name="text" >
+          <string>&amp;Vertical Sync:</string>
+         </property>
+         <property name="alignment" >
+          <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+         </property>
+         <property name="buddy" >
+          <cstring>verticalSyncCheck</cstring>
+         </property>
+        </widget>
+       </item>
+       <item row="11" column="2" >
+        <widget class="QCheckBox" name="verticalSyncCheck" >
+         <property name="text" >
+          <string/>
+         </property>
+        </widget>
+       </item>
+       <item row="12" column="1" >
+        <widget class="QLabel" name="label_8" >
+         <property name="text" >
+          <string>Fast &amp;CRC:</string>
+         </property>
+         <property name="alignment" >
+          <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+         </property>
+         <property name="buddy" >
+          <cstring>fastCrcCheck</cstring>
+         </property>
+        </widget>
+       </item>
+       <item row="12" column="2" >
+        <widget class="QCheckBox" name="fastCrcCheck" >
+         <property name="text" >
+          <string/>
+         </property>
+        </widget>
+       </item>
+       <item row="13" column="1" >
+        <widget class="QLabel" name="label_9" >
+         <property name="text" >
+          <string>&amp;Hires Framebuffer:</string>
+         </property>
+         <property name="alignment" >
+          <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+         </property>
+         <property name="buddy" >
+          <cstring>hiresFramebufferCheck</cstring>
+         </property>
+        </widget>
+       </item>
+       <item row="13" column="2" >
+        <widget class="QCheckBox" name="hiresFramebufferCheck" >
+         <property name="text" >
+          <string/>
+         </property>
+        </widget>
+       </item>
+       <item row="14" column="0" colspan="2" >
+        <widget class="QLabel" name="label_10" >
+         <property name="enabled" >
+          <bool>true</bool>
+         </property>
+         <property name="text" >
+          <string>Buffer &amp;swapping method:</string>
+         </property>
+         <property name="alignment" >
+          <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+         </property>
+         <property name="buddy" >
+          <cstring>bufferSwappingMethodCombo</cstring>
+         </property>
+        </widget>
+       </item>
+       <item row="14" column="2" >
+        <layout class="QHBoxLayout" name="horizontalLayout" >
+         <property name="spacing" >
+          <number>0</number>
+         </property>
+         <item>
+          <widget class="QComboBox" name="bufferSwappingMethodCombo" >
+           <property name="enabled" >
+            <bool>true</bool>
+           </property>
+           <item>
+            <property name="text" >
+             <string>Old</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>New</string>
+            </property>
+           </item>
+           <item>
+            <property name="text" >
+             <string>Hybrid</string>
+            </property>
+           </item>
+          </widget>
+         </item>
+         <item>
+          <spacer name="horizontalSpacer_7" >
+           <property name="orientation" >
+            <enum>Qt::Horizontal</enum>
+           </property>
+           <property name="sizeHint" stdset="0" >
+            <size>
+             <width>0</width>
+             <height>20</height>
+            </size>
+           </property>
+          </spacer>
+         </item>
+        </layout>
+       </item>
+       <item row="15" column="0" colspan="2" >
+        <widget class="QLabel" name="label_11" >
+         <property name="text" >
+          <string>&lt;h4>Glide Wrapper&lt;/h4></string>
+         </property>
+        </widget>
+       </item>
+       <item row="16" column="1" >
+        <widget class="QLabel" name="label_12" >
+         <property name="text" >
+          <string>&amp;Disable dithered Alpha:</string>
+         </property>
+         <property name="alignment" >
+          <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+         </property>
+         <property name="buddy" >
+          <cstring>disableDitheredAlphaCheck</cstring>
+         </property>
+        </widget>
+       </item>
+       <item row="16" column="2" >
+        <widget class="QCheckBox" name="disableDitheredAlphaCheck" >
+         <property name="text" >
+          <string/>
+         </property>
+        </widget>
+       </item>
+       <item row="17" column="1" >
+        <widget class="QLabel" name="label_13" >
+         <property name="text" >
+          <string>Disable &amp;GLSL Combiners:</string>
+         </property>
+         <property name="alignment" >
+          <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+         </property>
+         <property name="buddy" >
+          <cstring>disableGlslCombinersCheck</cstring>
+         </property>
+        </widget>
+       </item>
+       <item row="17" column="2" >
+        <widget class="QCheckBox" name="disableGlslCombinersCheck" >
+         <property name="text" >
+          <string/>
+         </property>
+        </widget>
+       </item>
+       <item row="18" column="1" >
+        <widget class="QLabel" name="label_14" >
+         <property name="text" >
+          <string>&amp;Use Framebuffer Objects:</string>
+         </property>
+         <property name="alignment" >
+          <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+         </property>
+         <property name="buddy" >
+          <cstring>useFramebufferObjectsCheck</cstring>
+         </property>
+        </widget>
+       </item>
+       <item row="18" column="2" >
+        <widget class="QCheckBox" name="useFramebufferObjectsCheck" >
+         <property name="text" >
+          <string/>
+         </property>
+        </widget>
+       </item>
+       <item row="19" column="0" colspan="3" >
+        <widget class="QLabel" name="label_36" >
+         <property name="text" >
+          <string>&lt;h4>Other&lt;/h4></string>
+         </property>
+        </widget>
+       </item>
+       <item row="20" column="1" >
+        <widget class="QLabel" name="label_37" >
+         <property name="text" >
+          <string>Custom &amp;INI settings:</string>
+         </property>
+         <property name="alignment" >
+          <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+         </property>
+         <property name="buddy" >
+          <cstring>customIniSettingsCheck</cstring>
+         </property>
+        </widget>
+       </item>
+       <item row="20" column="2" >
+        <widget class="QCheckBox" name="customIniSettingsCheck" >
+         <property name="text" >
+          <string/>
+         </property>
+        </widget>
+       </item>
+      </layout>
+     </widget>
+     <widget class="QWidget" name="tab_2" >
+      <attribute name="title" >
+       <string>Miscellaneous</string>
+      </attribute>
+      <layout class="QGridLayout" name="gridLayout_2" >
+       <item row="0" column="0" colspan="5" >
+        <widget class="QLabel" name="label_20" >
+         <property name="text" >
+          <string>&lt;h4>Special Fixes&lt;/h4></string>
+         </property>
+        </widget>
+       </item>
+       <item row="1" column="0" >
+        <spacer name="horizontalSpacer_9" >
+         <property name="orientation" >
+          <enum>Qt::Horizontal</enum>
+         </property>
+         <property name="sizeType" >
+          <enum>QSizePolicy::Fixed</enum>
+         </property>
+         <property name="sizeHint" stdset="0" >
+          <size>
+           <width>40</width>
+           <height>20</height>
+          </size>
+         </property>
+        </spacer>
+       </item>
+       <item row="1" column="1" >
+        <widget class="QLabel" name="biggestLabel" >
+         <property name="text" >
+          <string>&amp;Wrap textures too big for tmem:</string>
+         </property>
+         <property name="alignment" >
+          <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+         </property>
+         <property name="buddy" >
+          <cstring>wrapTexturesCheck</cstring>
+         </property>
+        </widget>
+       </item>
+       <item row="1" column="2" >
+        <widget class="QCheckBox" name="wrapTexturesCheck" >
+         <property name="text" >
+          <string/>
+         </property>
+        </widget>
+       </item>
+       <item row="1" column="3" >
+        <spacer name="horizontalSpacer_10" >
+         <property name="orientation" >
+          <enum>Qt::Horizontal</enum>
+         </property>
+         <property name="sizeHint" stdset="0" >
+          <size>
+           <width>221</width>
+           <height>20</height>
+          </size>
+         </property>
+        </spacer>
+       </item>
+       <item row="2" column="1" >
+        <widget class="QLabel" name="zeldaCoronaFixLabel" >
+         <property name="text" >
+          <string>&amp;Zelda Corona Fix:</string>
+         </property>
+         <property name="alignment" >
+          <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+         </property>
+         <property name="buddy" >
+          <cstring>zeldaCoronaFixCheck</cstring>
+         </property>
+        </widget>
+       </item>
+       <item row="2" column="2" colspan="3" >
+        <widget class="QCheckBox" name="zeldaCoronaFixCheck" >
+         <property name="text" >
+          <string/>
+         </property>
+        </widget>
+       </item>
+       <item row="3" column="0" colspan="5" >
+        <widget class="QLabel" name="label_23" >
+         <property name="text" >
+          <string>&lt;h4>Frame buffer emulation options&lt;/h4></string>
+         </property>
+        </widget>
+       </item>
+       <item row="4" column="1" >
+        <widget class="QLabel" name="label_24" >
+         <property name="text" >
+          <string>&amp;Read Every Frame:</string>
+         </property>
+         <property name="alignment" >
+          <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+         </property>
+         <property name="buddy" >
+          <cstring>readEveryFrameCheck</cstring>
+         </property>
+        </widget>
+       </item>
+       <item row="4" column="2" >
+        <widget class="QCheckBox" name="readEveryFrameCheck" >
+         <property name="sizePolicy" >
+          <sizepolicy vsizetype="Fixed" hsizetype="Maximum" >
+           <horstretch>0</horstretch>
+           <verstretch>0</verstretch>
+          </sizepolicy>
+         </property>
+         <property name="font" >
+          <font>
+           <weight>75</weight>
+           <bold>true</bold>
+          </font>
+         </property>
+         <property name="text" >
+          <string>Note: slow!</string>
+         </property>
+        </widget>
+       </item>
+       <item row="5" column="1" >
+        <widget class="QLabel" name="label_25" >
+         <property name="text" >
+          <string>&amp;Detect CPU writes:</string>
+         </property>
+         <property name="alignment" >
+          <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+         </property>
+         <property name="buddy" >
+          <cstring>detectCpuWritesCheck</cstring>
+         </property>
+        </widget>
+       </item>
+       <item row="5" column="2" colspan="3" >
+        <widget class="QCheckBox" name="detectCpuWritesCheck" >
+         <property name="text" >
+          <string/>
+         </property>
+        </widget>
+       </item>
+       <item row="6" column="1" >
+        <widget class="QLabel" name="label_26" >
+         <property name="text" >
+          <string>&amp;Get Frame buffer info:</string>
+         </property>
+         <property name="alignment" >
+          <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+         </property>
+         <property name="buddy" >
+          <cstring>getFramebufferInfoCheck</cstring>
+         </property>
+        </widget>
+       </item>
+       <item row="6" column="2" colspan="3" >
+        <widget class="QCheckBox" name="getFramebufferInfoCheck" >
+         <property name="text" >
+          <string/>
+         </property>
+        </widget>
+       </item>
+       <item row="7" column="1" >
+        <widget class="QLabel" name="label_27" >
+         <property name="text" >
+          <string>&amp;Depth buffer renderer:</string>
+         </property>
+         <property name="alignment" >
+          <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+         </property>
+         <property name="buddy" >
+          <cstring>depthBufferRendererCheck</cstring>
+         </property>
+        </widget>
+       </item>
+       <item row="7" column="2" colspan="3" >
+        <widget class="QCheckBox" name="depthBufferRendererCheck" >
+         <property name="text" >
+          <string/>
+         </property>
+        </widget>
+       </item>
+       <item row="8" column="0" colspan="5" >
+        <widget class="QLabel" name="label_28" >
+         <property name="text" >
+          <string>&lt;h4>Speed&lt;/h4></string>
+         </property>
+        </widget>
+       </item>
+       <item row="9" column="1" >
+        <widget class="QLabel" name="label_29" >
+         <property name="text" >
+          <string>&amp;FPS Counter:</string>
+         </property>
+         <property name="alignment" >
+          <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+         </property>
+         <property name="buddy" >
+          <cstring>fpsCounterCheck</cstring>
+         </property>
+        </widget>
+       </item>
+       <item row="9" column="2" colspan="3" >
+        <widget class="QCheckBox" name="fpsCounterCheck" >
+         <property name="text" >
+          <string/>
+         </property>
+        </widget>
+       </item>
+       <item row="10" column="1" >
+        <widget class="QLabel" name="label_30" >
+         <property name="text" >
+          <string>&amp;VI/s Counter:</string>
+         </property>
+         <property name="alignment" >
+          <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+         </property>
+         <property name="buddy" >
+          <cstring>viCounterCheck</cstring>
+         </property>
+        </widget>
+       </item>
+       <item row="10" column="2" colspan="3" >
+        <widget class="QCheckBox" name="viCounterCheck" >
+         <property name="text" >
+          <string/>
+         </property>
+        </widget>
+       </item>
+       <item row="11" column="1" >
+        <widget class="QLabel" name="label_31" >
+         <property name="text" >
+          <string>% &amp;speed:</string>
+         </property>
+         <property name="alignment" >
+          <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+         </property>
+         <property name="buddy" >
+          <cstring>percentSpeedCheck</cstring>
+         </property>
+        </widget>
+       </item>
+       <item row="11" column="2" colspan="3" >
+        <widget class="QCheckBox" name="percentSpeedCheck" >
+         <property name="text" >
+          <string/>
+         </property>
+        </widget>
+       </item>
+       <item row="12" column="1" >
+        <widget class="QLabel" name="label_32" >
+         <property name="text" >
+          <string>FPS &amp;transparent:</string>
+         </property>
+         <property name="alignment" >
+          <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+         </property>
+         <property name="buddy" >
+          <cstring>fpsTransparentCheck</cstring>
+         </property>
+        </widget>
+       </item>
+       <item row="12" column="2" colspan="3" >
+        <widget class="QCheckBox" name="fpsTransparentCheck" >
+         <property name="text" >
+          <string/>
+         </property>
+        </widget>
+       </item>
+       <item row="13" column="0" colspan="5" >
+        <widget class="QLabel" name="label_33" >
+         <property name="text" >
+          <string>&lt;h4>Time&lt;/h4></string>
+         </property>
+        </widget>
+       </item>
+       <item row="14" column="1" >
+        <widget class="QLabel" name="label_34" >
+         <property name="text" >
+          <string>&amp;Clock enabled:</string>
+         </property>
+         <property name="alignment" >
+          <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+         </property>
+         <property name="buddy" >
+          <cstring>clockEnabledCheck</cstring>
+         </property>
+        </widget>
+       </item>
+       <item row="14" column="2" colspan="3" >
+        <widget class="QCheckBox" name="clockEnabledCheck" >
+         <property name="text" >
+          <string/>
+         </property>
+        </widget>
+       </item>
+       <item row="15" column="1" >
+        <widget class="QLabel" name="label_35" >
+         <property name="text" >
+          <string>Clock is &amp;24-hour:</string>
+         </property>
+         <property name="alignment" >
+          <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+         </property>
+         <property name="buddy" >
+          <cstring>clockIs24HourCheck</cstring>
+         </property>
+        </widget>
+       </item>
+       <item row="15" column="2" colspan="3" >
+        <widget class="QCheckBox" name="clockIs24HourCheck" >
+         <property name="text" >
+          <string/>
+         </property>
+        </widget>
+       </item>
+       <item row="16" column="1" >
+        <spacer name="verticalSpacer" >
+         <property name="orientation" >
+          <enum>Qt::Vertical</enum>
+         </property>
+         <property name="sizeHint" stdset="0" >
+          <size>
+           <width>20</width>
+           <height>40</height>
+          </size>
+         </property>
+        </spacer>
+       </item>
+      </layout>
+     </widget>
+    </widget>
+   </item>
+   <item>
+    <widget class="QDialogButtonBox" name="buttonBox" >
+     <property name="orientation" >
+      <enum>Qt::Horizontal</enum>
+     </property>
+     <property name="standardButtons" >
+      <set>QDialogButtonBox::Cancel|QDialogButtonBox::Ok|QDialogButtonBox::Reset|QDialogButtonBox::RestoreDefaults</set>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <tabstops>
+  <tabstop>tabWidget</tabstop>
+  <tabstop>autodetectMicrocodeCheck</tabstop>
+  <tabstop>forceMicrocodeCombo</tabstop>
+  <tabstop>windowResolutionCombo</tabstop>
+  <tabstop>fullscreenResolutionCombo</tabstop>
+  <tabstop>textureFilterCombo</tabstop>
+  <tabstop>filteringModeCombo</tabstop>
+  <tabstop>lodCalculationCombo</tabstop>
+  <tabstop>fogEnabledCheck</tabstop>
+  <tabstop>bufferClearOnEveryFrameCheck</tabstop>
+  <tabstop>verticalSyncCheck</tabstop>
+  <tabstop>fastCrcCheck</tabstop>
+  <tabstop>hiresFramebufferCheck</tabstop>
+  <tabstop>bufferSwappingMethodCombo</tabstop>
+  <tabstop>disableDitheredAlphaCheck</tabstop>
+  <tabstop>disableGlslCombinersCheck</tabstop>
+  <tabstop>useFramebufferObjectsCheck</tabstop>
+  <tabstop>customIniSettingsCheck</tabstop>
+  <tabstop>buttonBox</tabstop>
+  <tabstop>wrapTexturesCheck</tabstop>
+  <tabstop>zeldaCoronaFixCheck</tabstop>
+  <tabstop>readEveryFrameCheck</tabstop>
+  <tabstop>detectCpuWritesCheck</tabstop>
+  <tabstop>getFramebufferInfoCheck</tabstop>
+  <tabstop>depthBufferRendererCheck</tabstop>
+  <tabstop>fpsCounterCheck</tabstop>
+  <tabstop>viCounterCheck</tabstop>
+  <tabstop>percentSpeedCheck</tabstop>
+  <tabstop>fpsTransparentCheck</tabstop>
+  <tabstop>clockEnabledCheck</tabstop>
+  <tabstop>clockIs24HourCheck</tabstop>
+ </tabstops>
+ <resources/>
+ <connections>
+  <connection>
+   <sender>buttonBox</sender>
+   <signal>accepted()</signal>
+   <receiver>Glide64ConfigDialog</receiver>
+   <slot>accept()</slot>
+   <hints>
+    <hint type="sourcelabel" >
+     <x>226</x>
+     <y>669</y>
+    </hint>
+    <hint type="destinationlabel" >
+     <x>157</x>
+     <y>274</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>buttonBox</sender>
+   <signal>rejected()</signal>
+   <receiver>Glide64ConfigDialog</receiver>
+   <slot>reject()</slot>
+   <hints>
+    <hint type="sourcelabel" >
+     <x>294</x>
+     <y>669</y>
+    </hint>
+    <hint type="destinationlabel" >
+     <x>286</x>
+     <y>274</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>customIniSettingsCheck</sender>
+   <signal>toggled(bool)</signal>
+   <receiver>filteringModeCombo</receiver>
+   <slot>setDisabled(bool)</slot>
+   <hints>
+    <hint type="sourcelabel" >
+     <x>258</x>
+     <y>620</y>
+    </hint>
+    <hint type="destinationlabel" >
+     <x>312</x>
+     <y>262</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>customIniSettingsCheck</sender>
+   <signal>toggled(bool)</signal>
+   <receiver>lodCalculationCombo</receiver>
+   <slot>setDisabled(bool)</slot>
+   <hints>
+    <hint type="sourcelabel" >
+     <x>357</x>
+     <y>615</y>
+    </hint>
+    <hint type="destinationlabel" >
+     <x>278</x>
+     <y>296</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>customIniSettingsCheck</sender>
+   <signal>toggled(bool)</signal>
+   <receiver>fogEnabledCheck</receiver>
+   <slot>setDisabled(bool)</slot>
+   <hints>
+    <hint type="sourcelabel" >
+     <x>419</x>
+     <y>616</y>
+    </hint>
+    <hint type="destinationlabel" >
+     <x>258</x>
+     <y>325</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>customIniSettingsCheck</sender>
+   <signal>toggled(bool)</signal>
+   <receiver>bufferClearOnEveryFrameCheck</receiver>
+   <slot>setDisabled(bool)</slot>
+   <hints>
+    <hint type="sourcelabel" >
+     <x>403</x>
+     <y>617</y>
+    </hint>
+    <hint type="destinationlabel" >
+     <x>262</x>
+     <y>351</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>customIniSettingsCheck</sender>
+   <signal>toggled(bool)</signal>
+   <receiver>bufferSwappingMethodCombo</receiver>
+   <slot>setDisabled(bool)</slot>
+   <hints>
+    <hint type="sourcelabel" >
+     <x>410</x>
+     <y>619</y>
+    </hint>
+    <hint type="destinationlabel" >
+     <x>297</x>
+     <y>468</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>customIniSettingsCheck</sender>
+   <signal>toggled(bool)</signal>
+   <receiver>label_10</receiver>
+   <slot>setDisabled(bool)</slot>
+   <hints>
+    <hint type="sourcelabel" >
+     <x>280</x>
+     <y>611</y>
+    </hint>
+    <hint type="destinationlabel" >
+     <x>157</x>
+     <y>464</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>customIniSettingsCheck</sender>
+   <signal>toggled(bool)</signal>
+   <receiver>label_15</receiver>
+   <slot>setDisabled(bool)</slot>
+   <hints>
+    <hint type="sourcelabel" >
+     <x>387</x>
+     <y>615</y>
+    </hint>
+    <hint type="destinationlabel" >
+     <x>187</x>
+     <y>353</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>customIniSettingsCheck</sender>
+   <signal>toggled(bool)</signal>
+   <receiver>label_7</receiver>
+   <slot>setDisabled(bool)</slot>
+   <hints>
+    <hint type="sourcelabel" >
+     <x>448</x>
+     <y>614</y>
+    </hint>
+    <hint type="destinationlabel" >
+     <x>207</x>
+     <y>326</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>customIniSettingsCheck</sender>
+   <signal>toggled(bool)</signal>
+   <receiver>label_6</receiver>
+   <slot>setDisabled(bool)</slot>
+   <hints>
+    <hint type="sourcelabel" >
+     <x>531</x>
+     <y>619</y>
+    </hint>
+    <hint type="destinationlabel" >
+     <x>158</x>
+     <y>301</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>customIniSettingsCheck</sender>
+   <signal>toggled(bool)</signal>
+   <receiver>label_5</receiver>
+   <slot>setDisabled(bool)</slot>
+   <hints>
+    <hint type="sourcelabel" >
+     <x>492</x>
+     <y>610</y>
+    </hint>
+    <hint type="destinationlabel" >
+     <x>210</x>
+     <y>260</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+</ui>

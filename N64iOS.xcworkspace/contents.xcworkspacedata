@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:N64iOS/N64iOS/N64iOS.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:N64iOS/N64iOS/../../iN64-Plugins/iN64-Plugins.xcodeproj">
+   </FileRef>
+</Workspace>

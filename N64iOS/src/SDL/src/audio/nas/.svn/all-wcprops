@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/4296/trunk/SDL/src/audio/nas
+END
+SDL_nasaudio.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/4296/trunk/SDL/src/audio/nas/SDL_nasaudio.c
+END
+SDL_nasaudio.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/4211/trunk/SDL/src/audio/nas/SDL_nasaudio.h
+END

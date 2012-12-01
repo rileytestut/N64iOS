@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/4937/trunk/SDL/Xcode/TemplatesForXcodeLeopard/SDL%20OpenGL%20Application
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/4900/trunk/SDL/Xcode/TemplatesForXcodeLeopard/SDL%20OpenGL%20Application/Info.plist
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/4900/trunk/SDL/Xcode/TemplatesForXcodeLeopard/SDL%20OpenGL%20Application/main.c
+END
+___PROJECTNAMEASIDENTIFIER____Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/4937/trunk/SDL/Xcode/TemplatesForXcodeLeopard/SDL%20OpenGL%20Application/___PROJECTNAMEASIDENTIFIER____Prefix.pch
+END

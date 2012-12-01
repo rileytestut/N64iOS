@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/4937/trunk/SDL/Xcode/TemplatesForXcodeSnowLeopard/SDL%20Cocoa%20Application
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/4900/trunk/SDL/Xcode/TemplatesForXcodeSnowLeopard/SDL%20Cocoa%20Application/Info.plist
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/4900/trunk/SDL/Xcode/TemplatesForXcodeSnowLeopard/SDL%20Cocoa%20Application/main.c
+END
+___PROJECTNAMEASIDENTIFIER____Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/4937/trunk/SDL/Xcode/TemplatesForXcodeSnowLeopard/SDL%20Cocoa%20Application/___PROJECTNAMEASIDENTIFIER____Prefix.pch
+END
