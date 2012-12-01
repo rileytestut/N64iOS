@@ -184,11 +184,11 @@
 		BF3D116016699B9A004C3D11 /* jttl_audio.conf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = jttl_audio.conf; path = ../src/Mupen64Plus/config/jttl_audio.conf; sourceTree = "<group>"; };
 		BF3D116116699B9A004C3D11 /* mupen64plus.conf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = mupen64plus.conf; path = ../src/Mupen64Plus/config/mupen64plus.conf; sourceTree = "<group>"; };
 		BF3D11DC1669A7B8004C3D11 /* gles2n64.conf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = gles2n64.conf; path = ../src/Mupen64Plus/config/gles2n64.conf; sourceTree = "<group>"; };
-		BF56EF49166491C400687060 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = main.c; path = "../../../../../../../Downloads/N64iOS-master/N64iOS/src/Mupen64Plus/main/main.c"; sourceTree = "<group>"; };
+		BF56EF49166491C400687060 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = main.c; path = "../../src/Mupen64Plus/main/main.c"; sourceTree = "<group>"; };
 		BF56EF4A166491C400687060 /* SDL_compat.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = SDL_compat.c; path = ../../src/SDL/src/SDL_compat.c; sourceTree = "<group>"; };
 		BF56EF4B166491C400687060 /* SDL_error.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = SDL_error.c; path = ../../src/SDL/src/SDL_error.c; sourceTree = "<group>"; };
 		BF56EF4C166491C400687060 /* SDL_fatal.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = SDL_fatal.c; path = ../../src/SDL/src/SDL_fatal.c; sourceTree = "<group>"; };
-		BF56EF4D166491C400687060 /* SDL.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = SDL.c; path = ../../src/SDL/src/SDL.c; sourceTree = "<group>"; };
+		BF56EF4D166491C400687060 /* SDL.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = SDL.c; path = "/Users/Riley/Downloads/N64iOS-master/N64iOS/N64iOS/N64iOS/../../src/SDL/src/SDL.c"; sourceTree = "<absolute>"; };
 		BF56EF4E166491C400687060 /* SDL_atomic.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = SDL_atomic.c; path = ../../src/SDL/src/atomic/dummy/SDL_atomic.c; sourceTree = "<group>"; };
 		BF56EF4F166491C400687060 /* SDL_syshaptic.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = SDL_syshaptic.c; path = ../../src/SDL/src/haptic/dummy/SDL_syshaptic.c; sourceTree = "<group>"; };
 		BF56EF50166491C400687060 /* SDL_haptic.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = SDL_haptic.c; path = ../../src/SDL/src/haptic/SDL_haptic.c; sourceTree = "<group>"; };
