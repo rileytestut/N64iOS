@@ -285,7 +285,7 @@ bl _testthat
 mov	pc, lr
 
 .align	4
-42430:
+TranslationCache:
 .long _translation_cache_iphone
 
 .align	2
@@ -302,8 +302,7 @@ ldr	r0, [fp, #64]
 ldr	r10, [fp, #400+36] /* Count */
 str	r0, [fp, #72]
 sub	r10, r10, r0
-//bl _testthis
-ldr r0, 42430b
+ldr r0, TranslationCache
 ldr	pc, [r0]
 
 .dlptr:

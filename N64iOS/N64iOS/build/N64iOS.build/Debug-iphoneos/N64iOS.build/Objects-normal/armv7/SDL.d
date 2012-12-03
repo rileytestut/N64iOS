@@ -1,5 +1,5 @@
 dependencies: \
-  /Users/Riley/Developer/Open\ Source/My\ Projects/N64iOS/N64iOS/N64iOS/N64iOS/../../src/SDL/src/SDL.c \
+  /Users/Riley/Downloads/N64iOS-master/N64iOS/N64iOS/N64iOS/../../src/SDL/src/SDL.c \
   ../src/SDL/include/SDL_config.h ../src/SDL/include/SDL_platform.h \
   ../src/SDL/include/begin_code.h ../src/SDL/include/close_code.h \
   ../src/SDL/include/SDL_config_iphoneos.h ../src/SDL/include/SDL.h \
@@ -17,4 +17,5 @@ dependencies: \
   ../src/SDL/include/SDL_loadso.h ../src/SDL/include/SDL_power.h \
   ../src/SDL/include/SDL_timer.h ../src/SDL/include/SDL_version.h \
   ../src/SDL/include/SDL_revision.h ../src/SDL/include/SDL_compat.h \
-  ../src/SDL/src/SDL_fatal.h ../src/SDL/src/video/SDL_leaks.h
+  /Users/Riley/Downloads/N64iOS-master/N64iOS/N64iOS/N64iOS/../../src/SDL/src/SDL_fatal.h \
+  /Users/Riley/Downloads/N64iOS-master/N64iOS/N64iOS/N64iOS/../../src/SDL/src/video/SDL_leaks.h

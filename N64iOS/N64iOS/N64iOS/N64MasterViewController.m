@@ -40,6 +40,11 @@
     
     self.detailViewController = (N64DetailViewController *)[[self.splitViewController.viewControllers lastObject] topViewController];
     
+    UIRefreshControl *refreshControl = [[UIRefreshControl alloc] init];
+    [refreshControl addTarget:self action:@selector(refreshROMsList) forControlEvents:UIControlEventValueChanged];
+    
+    self.refreshControl = refreshControl;
+    
     [self refreshROMsList];
 }
 
@@ -106,6 +111,8 @@
     self.roms = roms;
     
     [self.tableView reloadData];
+    
+    [self.refreshControl endRefreshing];
     
 }
 

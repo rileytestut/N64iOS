@@ -184,7 +184,7 @@
 		BF3D116016699B9A004C3D11 /* jttl_audio.conf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = jttl_audio.conf; path = ../src/Mupen64Plus/config/jttl_audio.conf; sourceTree = "<group>"; };
 		BF3D116116699B9A004C3D11 /* mupen64plus.conf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = mupen64plus.conf; path = ../src/Mupen64Plus/config/mupen64plus.conf; sourceTree = "<group>"; };
 		BF3D11DC1669A7B8004C3D11 /* gles2n64.conf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = gles2n64.conf; path = ../src/Mupen64Plus/config/gles2n64.conf; sourceTree = "<group>"; };
-		BF56EF49166491C400687060 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = main.c; path = "../../src/Mupen64Plus/main/main.c"; sourceTree = "<group>"; };
+		BF56EF49166491C400687060 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = main.c; path = ../../src/Mupen64Plus/main/main.c; sourceTree = "<group>"; };
 		BF56EF4A166491C400687060 /* SDL_compat.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = SDL_compat.c; path = ../../src/SDL/src/SDL_compat.c; sourceTree = "<group>"; };
 		BF56EF4B166491C400687060 /* SDL_error.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = SDL_error.c; path = ../../src/SDL/src/SDL_error.c; sourceTree = "<group>"; };
 		BF56EF4C166491C400687060 /* SDL_fatal.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = SDL_fatal.c; path = ../../src/SDL/src/SDL_fatal.c; sourceTree = "<group>"; };
@@ -949,6 +949,7 @@
 				INFOPLIST_FILE = "N64iOS/N64iOS-Info.plist";
 				LIBRARY_SEARCH_PATHS = "$(inherited)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -961,6 +962,7 @@
 				INFOPLIST_FILE = "N64iOS/N64iOS-Info.plist";
 				LIBRARY_SEARCH_PATHS = "$(inherited)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;

@@ -137,6 +137,8 @@ char shadow[1048576]  __attribute__((aligned(16)));
 void *copy;
 int expirep;
 
+int testing = 0;
+
 /* registers that may be allocated */
 /* 1-31 gpr */
 #define HIREG 32 // hi
@@ -744,6 +746,7 @@ void ll_remove_matching_addrs(struct ll_entry **head,int addr,int shift)
 {
     struct ll_entry *next;
     while(*head) {
+        
         if(((u_int)((*head)->addr)>>shift)==(addr>>shift) ||
            ((u_int)((*head)->addr-MAX_OUTPUT_BLOCK_SIZE)>>shift)==(addr>>shift))
         {
@@ -5842,7 +5845,7 @@ void new_dynarec_init()
               -1, 0) != out) {fprintf(stderr, "mmap() failed\n"); fflush(stderr); }
 #if defined(__APPLE__) && defined(__arm__)
     //memset(translation_cache_iphone, 0, 1<<TARGET_SIZE_2);
-    //sys_icache_invalidate(translation_cache_iphone, 1<<TARGET_SIZE_2);
+    sys_icache_invalidate(translation_cache_iphone, 1<<TARGET_SIZE_2);
     //fflush(stderr);
 #endif
     
@@ -8084,6 +8087,12 @@ void new_recompile_block(int addr)
         switch((expirep>>11)&3)
         {
             case 0:
+                                
+                if (testing >= 25) {
+                    printf("Going to crash");
+                    
+                }
+                                
                 // Clear jump_in and jump_dirty
                 ll_remove_matching_addrs(jump_in+(expirep&2047),base,shift);
                 ll_remove_matching_addrs(jump_dirty+(expirep&2047),base,shift);
@@ -8091,6 +8100,9 @@ void new_recompile_block(int addr)
                     ll_remove_matching_addrs(jump_in+2048,base,shift);
                     ll_remove_matching_addrs(jump_dirty+2048,base,shift);
                 }
+                
+                testing++;
+                
                 break;
             case 1:
                 // Clear pointers
@@ -8130,5 +8142,7 @@ void new_recompile_block(int addr)
      
         expirep=(expirep+1)&65535;
     }
+    
+    printf("End of loop");
     
 }
