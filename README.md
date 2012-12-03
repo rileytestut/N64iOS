@@ -22,3 +22,5 @@ I will implement the UI once the backend of the emulator is working. It shouldn'
 **Anything else I should know?**
 
 The plugins aren't perfect yet, such as gles2n64. Help would be appreciated with this as well. However, if you wish to modify the plugins, make sure under Xcode>Preferences>Locations>Advanced… you've selected "Legacy". This builds the plugins in the same folder as the source, allowing them to be included by N64iOS.
+
+Thanks for any advice, it's all very much appreciated! And hey, once it's done you'll be able to hear those sweet N64 sounds wherever you go :)
